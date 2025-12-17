@@ -3,7 +3,6 @@ public class FindHarryBirthYear{
 		int harryBirth = 2000;
 		int currentYear = 2024;
 		
-		System.out.println("Harry's age in 2024 is: "+(currentYear-harryBirth));
-
+		System.out.println("Harry age in 2024 is: "+(currentYear-harryBirth));
 	}
 }
