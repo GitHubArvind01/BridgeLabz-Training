@@ -2,6 +2,7 @@ import java.util.Scanner;
 //Create IsFirstNumberSmallest Class to Print the yes or no
 public class IsFirstNumberSmallest{
 	public static void main (String args[]){
+		
 		// Creating Scanner object to take input from user
         Scanner input = new Scanner(System.in);
 		
@@ -17,7 +18,6 @@ public class IsFirstNumberSmallest{
 		
 		
 		// Displaying the output
-
 		if(number1<=number2 && number1<=number3){
 			System.out.println("Is the first number the smallest? Yes");
 		}else{
