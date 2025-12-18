@@ -1,6 +1,6 @@
 import java.util.Scanner;
-//Create IsFirstNumberSmallest Class to Print the yes or no
-public class IsFirstNumberSmallest{
+//Create IsFirstNumberLargest Class to Print the yes or no
+public class IsFirstNumberLargest{
 	public static void main (String args[]){
 		// Creating Scanner object to take input from user
         Scanner input = new Scanner(System.in);
