@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//Create IntOperation Class to compute the Distance and Travel Time
+//Create IntOperation Class to compute the arithmetic operation
 public class IntOperation{
 	public static void main (String args[]){
 		// Creating Scanner object to take input from user
