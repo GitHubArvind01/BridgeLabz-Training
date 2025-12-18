@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//Create bonusAmount Class to compute the salary bouns amount
+//Create FizzBuzz Class to compute the FizzBuzz, Fizz, and Buzz
 public class FizzBuzz{
 	public static void main (String args[]){
 		// Creating Scanner object to take input from user
