@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//Create CheckDivisibility Class to compute the Distance and Travel Time
+//Create CheckDivisibility Class to print the yes or no
 public class CheckDivisibility{
 	public static void main (String args[]){
 		// Creating Scanner object to take input from user
