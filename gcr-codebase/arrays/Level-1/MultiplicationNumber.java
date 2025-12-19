@@ -6,21 +6,24 @@ public class MultiplicationNumber{
 		// Creating Scanner object to take input from user
         Scanner sc = new Scanner(System.in);
 		
-		//Taking input as number
-		System.out.println("Enter the number: ");
-		int num = sc.nextInt();
-		
 		//creating the array age of size 10 stored the multiplication of number 
-		int multiplicationArray[] = new int[10];
+		int number[] = new int[10];
 		
-		//Taking age as input from user
-		for(int i=0;i<10;i++){
-			multiplicationArray[i] = num*(i+1);
-		}		
+		//Taking input and computing the number sum if they are not zero and negative
+		int numberSum = 0;
+		int i=0;
+		while(true){
+			System.out.println("Enter the number : ");
+			number[i] = sc.nextInt();
+			if(number[i]==0 || number[i]<0){
+				break;
+			}else{
+				numberSum+=number[i];
+			}
+		}
+		
 
 		//Displaying the ouptut
-		for(int i=0;i<10;i++){
-			System.out.println(num+" * "+(i+1)+ " = " + multiplicationArray[i]);
-		}
+		System.out.println("The sum of total number: "+ numberSum);
 	}
 }
