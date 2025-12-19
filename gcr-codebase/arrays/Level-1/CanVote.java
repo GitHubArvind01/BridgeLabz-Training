@@ -15,7 +15,7 @@ public class CanVote{
 			age[i] = sc.nextInt();
 		}		
 
-		//Displaying the ouptut
+		//Displaying the ouptut 
 		for(int i=0;i<10;i++){
 			if(age[i]>=18){
 				System.out.println("The student with the age" +age[i]+" can vote");
