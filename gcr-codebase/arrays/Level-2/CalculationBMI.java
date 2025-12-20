@@ -23,11 +23,11 @@ public class CalculationBMI{
 			System.out.println("Enter the " + (i+1) + " person weight: ");
 			weightPerson[i] = sc.nextDouble();
 		}
-
+		
 		
 		//computing the BMI and Displaying the ouput
 		for(int i=0;i<numberPerson;i++){
-			double BMI = (double)weightPerson[i]/(heightPerson[i]*heightPerson[i]);
+			double BMI = (double)weightPerson[i]/((heightPerson[i]*heightPerson[i])*30.48);
 			personBMI[i] = BMI;
 			
 			if(BMI>=40.0){
