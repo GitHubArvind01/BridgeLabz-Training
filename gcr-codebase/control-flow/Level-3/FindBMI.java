@@ -13,7 +13,7 @@ public class FindBMI{
 		System.out.println("Enter your height: ");
 		double height = sc.nextDouble();
 		//converting height into cm
-		height = height/100;
+		height = height*30.40;
 
 		//Computing the BMI of person
 		double BMI = (double)weight/(height*height);
