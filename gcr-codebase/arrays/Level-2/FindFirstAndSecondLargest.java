@@ -6,33 +6,41 @@ public class FindFirstAndSecondLargest{
         Scanner sc = new Scanner(System.in);
 		
 		//taking the size of array 
-		System.out.println("Enter the size of array : ");
-		int size = sc.nextInt();
+		System.out.println("Enter the number: ");
+		int number = sc.nextInt();
 		
-		//creating array name of number that store size of elements
-		int number[] = new int[size];
+		int maxDigit = 10;
 		
-		// Taking number as input
-		System.out.println("Enter the " + size + " elements: ");
-		for(int i=0;i<size;i++){
-			number[i] = sc.nextInt();
+		//creating array name of digit that store the number digit
+		int digits[] = new int[10];
+		
+		// computing the digit into array
+		int index = 0;
+		while(number>0){
+			int temp = number%10;
+			if(index==maxDigit){
+				break;
+			}
+			digits[index++] = temp;
+			number/=10;
 		}
 		
-		//Computing the firts largets number 
+		//Computing the firts largets number in digits array
 		int firstMax = Integer.MIN_VALUE;
 		int idx = 0;
-		for(int i=0;i<size;i++){
-			if(number[i]>=firstMax){
-				firstMax = number[i];
+		for(int i=0;i<maxDigit;i++){
+			if(digits[i]>=firstMax){
+				firstMax = digits[i];
 				idx = i;
 			}
 		}
 		
 		//Computing the second largest number 
 		int secondMax = Integer.MIN_VALUE;
-		for(int i=0;i<size;i++){
-			if(i!=idx && number[i]>=secondMax){
-				secondMax = number[i];
+		for(int i=0;i<maxDigit;i++){
+			if(i!=idx && digits[i]>=secondMax){
+				secondMax = digits[i];
+				secondMax = digits[i];
 			}
 		}
 		
