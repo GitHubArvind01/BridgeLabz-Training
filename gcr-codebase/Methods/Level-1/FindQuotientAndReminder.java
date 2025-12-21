@@ -14,12 +14,15 @@ public class FindQuotientAndReminder{
 		int divisor = sc.nextInt();
 		
 		//calling function compute 
-		computeSum(number, divisor);
-	}
-	//This function has logic of finding quotient and reminder
-	public static void computeSum(int number, int divisor){
+		int ans[] = new int[2];
+		ans = computeSum(number, divisor);
 		
 		//Displaying the ouput 
-		System.out.println("Quotient:  " + (number/divisor) + "\nReminder : " + (number%divisor));
+		System.out.println("Quotient:  " + ans[0] + "\nReminder : " + ans[1]);
+	}
+	
+	//This function has logic of finding quotient and reminder
+	public static int[] computeSum(int number, int divisor){
+		return new int[]{(number/divisor),(number%divisor)};
 	}
 }
