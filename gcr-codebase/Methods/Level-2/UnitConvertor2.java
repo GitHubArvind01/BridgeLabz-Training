@@ -23,7 +23,7 @@ public class UnitConvertor2{
 		System.out.println("20 feets convert meters : " + convertInchesTocentimeters(inches)); 
 	}
 	public static double convertYardToFeets(double yard){
-		double yards2feet = 3;;
+		double yards2feet = 3;
 		return yard*yards2feet;
 	}
 	
