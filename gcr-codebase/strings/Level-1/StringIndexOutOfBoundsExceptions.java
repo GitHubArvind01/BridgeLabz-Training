@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
-//Create StringIndexOutOfBoundsExceptions Class to generate the string index out of bound exception
-public class StringIndexOutOfBoundsExceptions{
+//Create IllegalArgumentExceptions Class to generate the illegal arguments exception
+public class IllegalArgumentExceptions{
 	public static void main (String args[]){
 		
 		// Creating Scanner object to take input from user
