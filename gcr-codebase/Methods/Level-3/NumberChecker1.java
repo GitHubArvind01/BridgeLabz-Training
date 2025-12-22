@@ -1,4 +1,27 @@
 class NumberChecker1 {
+	public static void main(String args[]){
+		
+		//taking default number 50
+		int number = 3432;
+		
+		//calling function countDigits
+		int count = countDigits(number);
+		
+		//calling function store digit 
+		int digits[] = storeDigits(number);
+		
+		//calling function is isDuckNumber
+		boolean isDuck = isDuckNumber(digits);
+		
+		//calling function isArmstrong
+		boolean isArms = isArmstrong(number,digits);
+		
+		//calling function largestSecondLargest
+		largestSecondLargest(digits);
+		
+		//calling function smallestSecondSmallest
+		smallestSecondSmallest(digits);
+	}
     public static int countDigits(int number) {
         int count = 0;
         while (number != 0) {
