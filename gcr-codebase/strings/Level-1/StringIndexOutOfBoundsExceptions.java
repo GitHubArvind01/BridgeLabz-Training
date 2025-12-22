@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
-//Create IllegalArgumentExceptions Class to generate the illegal arguments exception
-public class IllegalArgumentExceptions{
+//Create StringIndexOutOfBoundsExceptions Class to generate the illegal arguments exception
+public class StringIndexOutOfBoundsExceptions{
 	public static void main (String args[]){
 		
 		// Creating Scanner object to take input from user
