@@ -70,7 +70,6 @@ public class SplitTextStore2D{
 	public static int countLength(String str){
 		int len = str.length();
 		int count = 0;
-		
 		try{
 			int i=0;
 			while(true){
