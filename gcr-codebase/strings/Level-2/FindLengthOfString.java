@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//Create FindLengthOfString Class to compute the length of string
+//Create FindLengthOfString Class to compute the length of the string
 public class FindLengthOfString{
 	public static void main (String args[]){
 		
