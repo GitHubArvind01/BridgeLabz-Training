@@ -30,7 +30,7 @@ public class CompareTwoString{
 		boolean f2 = str1.equals(str2);
 		System.out.println(f1);
 		System.out.println(f2);
-		//Displaying the ouput 
+		//Displaying the ouput
 		if(f1==true && f2==true){
 			System.out.println("Str1 " + str1+ " And Str2 "+ str2 +" equals!");
 		}else{
