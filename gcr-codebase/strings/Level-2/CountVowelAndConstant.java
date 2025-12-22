@@ -24,22 +24,35 @@ public class CountVowelAndConstant{
 		for(int i=0;i<len;i++){
 			char c = str.charAt(i);
 			
-			if((int)c>=65 && (int)c<92){
-				char v = (char)(c+32);
-				if(v=='a' || v=='e' || v=='i' || v=='o' || v=='u'){
-					countV++;
-				}else{
-					countC++;
-				}
-			}else{
-				if(c=='a' || c=='e' || c=='i' || c=='o' || c=='u'){
-					countV++;
-				}else{
-					countC++;
-				}
+			String result = checkChar(c);
+			
+			if(result.equals("Vowel")){
+				countV+=1;
+			}else if(result.equals("Consonant")){
+				countC+=1;
 			}
 		}
 		
 		return new int[]{countV,countC};
 	}
+	
+	 // Method to check vowel, consonant, and not a letter
+    public static String checkChar(char c) {
+
+        // Convert uppercase to lowercase using ASCII
+        if (c >= 65 && c <= 90) {
+            c = (char) (c + 32);
+        }
+
+        // Check if letter
+        if (c >= 97 && c <= 122) {
+
+            if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u') {
+                return "Vowel";
+            } else {
+                return "Consonant";
+            }
+        }
+        return "Not a Letter";
+    }
 }	
