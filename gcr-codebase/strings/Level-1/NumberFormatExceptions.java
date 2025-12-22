@@ -13,12 +13,21 @@ public class NumberFormatExceptions{
 		//calling function
 		handleException(str);
 	}
+	
+	public static void generateException(String str){
+		int number = Integer.parseInt(str);
+		System.out.println("Convert string to number : " + number);
+	}
+	
+	
 	public static void handleException(String str){
 		try{
 			int number = Integer.parseInt(str);
 			System.out.println("String has number. No exception happend");
 		}catch(NumberFormatException e){
 			System.out.println("String has no number! Yes exception happend");
+		}catch(RuntimeException e){
+			System.out.println("Genric exception happend: ");
 		}
 	}
 }
