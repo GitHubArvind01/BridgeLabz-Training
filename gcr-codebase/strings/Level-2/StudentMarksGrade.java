@@ -41,7 +41,6 @@ public class StudentMarksGrade {
     public static int[][] calculateDataPCM(int randomPCM[][], int n) {
 		
 		int calculateData[][] = new int[n][3];
-		
 		for(int i=0;i<randomPCM.length;i++){
 			//total
 			calculateData[i][0] = randomPCM[i][0]+randomPCM[i][1]+randomPCM[i][2];
