@@ -1,7 +1,6 @@
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
-
 public class DateUpdate {
     public static void main(String[] args) {
 		//Scanner object for taking input from user
