@@ -9,7 +9,7 @@ public class CalculateBMI {
 		
 		//int size 
 		int numberOfperson = 3;
-		
+
 		//creating the heightAndweight double array to store height and weight of 10 people
 		double heightAndweight[][] = new double[numberOfperson][2];
 		
