@@ -1,4 +1,4 @@
-package com.classandobject.LevelOne;
+package com.classandobject.Level1;
 
 public class Book {
 
@@ -10,5 +10,4 @@ public class Book {
 		book1.displayBookDetails();
 		book2.displayBookDetails();
 	}
-
 }

@@ -1,4 +1,4 @@
-package com.classandobject.LevelOne;
+package com.classandobject.Level1;
 
 public class PrintCircle {
 	//non-static variables
