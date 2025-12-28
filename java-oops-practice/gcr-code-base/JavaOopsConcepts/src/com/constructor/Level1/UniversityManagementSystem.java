@@ -9,7 +9,7 @@ public class UniversityManagementSystem {
 		
 		double cgpa = student.getCGPA();
 		System.out.println("get CGPA -> "+cgpa);
-		System.out.println("--------------------");
+		System.out.println("-------------------");
 		student.modifyCGPA(5.6);
 		
 		double newcgpa = student.getCGPA();

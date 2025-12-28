@@ -33,7 +33,7 @@ public class DisplayStudent {
 		System.out.println("Stduent Name: " + name);
 		System.out.println("Stduent roll number: " + rollNumber);
 		System.out.println("CGPA: " + CGPA);
-		System.out.println("--------------------");
+		System.out.println("-------------------");
 	}
 }
 class PostgraduateStudent extends DisplayStudent{
