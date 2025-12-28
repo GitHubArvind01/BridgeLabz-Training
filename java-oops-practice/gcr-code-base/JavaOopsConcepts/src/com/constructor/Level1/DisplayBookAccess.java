@@ -39,7 +39,7 @@ class EBook extends DisplayBookAccess{
 	
 	//access ISBN and title super
 	public void displayAccess() {
-		System.out.println("Access Book from subclass : ");
+		System.out.println("Access Book from subclass: ");
 		System.out.println("ISBN: "+ISBN);
 		System.out.println("Title: "+title);
 		System.out.println("----------------");
