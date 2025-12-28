@@ -1,7 +1,7 @@
 package com.constructor.Level1;
 
 public class DisplayStudent {
-	private int rollNumber;
+	public int rollNumber;
 	protected String name;
 	private double CGPA;
 	
