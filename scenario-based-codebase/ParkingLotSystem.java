@@ -4,6 +4,10 @@ public class ParkingLotSystem{
 		Scanner sc = new Scanner(System.in);
 		
 		int occupancy = 10;
+		int bikePark = 0;
+		int carPark = 0;
+		int truckPark = 0;
+		
 		while(true){
 			System.out.println("\n---------Choose Options----------");
 			System.out.println("CAR Park-> 'C': ");
@@ -16,6 +20,7 @@ public class ParkingLotSystem{
 			System.out.println("-----------------------------------");
 			
 			char c = sc.next().charAt(0);
+			c = Character.toUpperCase(c);
 			
 			if(occupancy==0){
 				System.out.println("-------------------------");
@@ -29,18 +34,21 @@ public class ParkingLotSystem{
 					System.out.println("Your CAR parked.");
 					System.out.println("-------------------------");
 					occupancy-=1;
+					carPark+=1;
 					break;
 				case 'T':
 					System.out.println("-------------------------");
 					System.out.println("Your TRUCK parked.");
 					System.out.println("-------------------------");
 					occupancy-=1;
+					truckPark+=1;
 					break;
 				case 'B':
 					System.out.println("-------------------------");
 					System.out.println("Your BIKE parked.");
 					System.out.println("-------------------------");
 					occupancy-=1;
+					bikePark+=1;
 					break;
 				case '1':
 					if(occupancy==10){
@@ -49,10 +57,18 @@ public class ParkingLotSystem{
 						System.err.println("-------------------------");
 					}
 					else{
-						System.out.println("-------------------------");
-						System.out.println("CAR Exit!");
-						System.out.println("-------------------------");
-						occupancy+=1;
+						if(carPark>0){
+							System.out.println("-------------------------");
+							System.out.println("CAR Exit!");
+							System.out.println("-------------------------");
+							occupancy+=1;
+							carPark-=1;
+						}
+						else{
+							System.out.println("-------------------------");
+							System.out.println("Sorry! CAR haven't Park yet!");
+							System.out.println("-------------------------");
+						}
 					}
 					break;
 				case '2':
@@ -62,10 +78,18 @@ public class ParkingLotSystem{
 						System.err.println("-------------------------");
 					}
 					else{
-						System.out.println("-------------------------");
-						System.out.println("TRUCK Exit!");
-						System.out.println("-------------------------");
-						occupancy+=1;
+						if(truckPark>0){
+							System.out.println("-------------------------");
+							System.out.println("TRUCK Exit!");
+							System.out.println("-------------------------");
+							occupancy+=1;
+							truckPark-=1;
+						}
+						else{
+							System.out.println("-------------------------");
+							System.out.println("Sorry! TRUCK haven't Park yet!");
+							System.out.println("-------------------------");
+						}
 					}
 					break;
 				case '3':
@@ -75,10 +99,18 @@ public class ParkingLotSystem{
 						System.err.println("-------------------------");
 					}
 					else{
-						System.out.println("-------------------------");
-						System.out.println("BIKE Exit!");
-						System.out.println("-------------------------");
-						occupancy+=1;
+						if(bikePark>0){
+							System.out.println("-------------------------");
+							System.out.println("BIKE Exit!");
+							System.out.println("-------------------------");
+							occupancy+=1;
+							bikePark-=1;
+						}
+						else{
+							System.out.println("-------------------------");
+							System.out.println("Sorry! BIKE haven't Park yet!");
+							System.out.println("-------------------------");
+						}
 					}
 					break;
 				case 'O':
