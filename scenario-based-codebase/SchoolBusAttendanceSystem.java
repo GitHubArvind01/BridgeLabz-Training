@@ -22,9 +22,21 @@ public class SchoolBusAttendanceSystem{
 		
 		//display
 		idx = 0;
+		int presentCount = 0;
+		int absentCount = 0;
 		System.out.println("\n---------------Display Attendance--------------");
 		for(char p:parsent){
+			if(p=='P'){
+				presentCount++;
+			}
+			if(p=='A'){
+				absentCount++;
+			}
 			System.out.println(student[idx++]+ " ->" + ((p=='P')?"Parsent":"Absent"));
 		}
+		
+		System.out.println("\n---- Attendance Summary ----");
+        System.out.println("Total Present Students : " + presentCount);
+        System.out.println("Total Absent Students  : " + absentCount);
 	}
 }
