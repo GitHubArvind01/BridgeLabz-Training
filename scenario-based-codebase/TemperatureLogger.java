@@ -6,7 +6,7 @@ public class TemperatureLogger{
 	static double averageTemperature = 0.0;
 	static double maxTemperature = 0.0;
 	public static void main(String args[]){
-		//scanner object to take input
+		//scanner object to take inputs
 		Scanner sc = new Scanner(System.in);
 		
 		for(int i=0;i<7;i++){
