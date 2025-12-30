@@ -1,6 +1,5 @@
 import java.util.Scanner;
 public class TicketBooking{
-	
 	//this have the option cinema
 	static String[][] bookingData = {
 			{"Action", "Comedy", "Drama", "Horror", "Romance", "Fantasy", "Thriller", "Animation", "Musical", "Documentary", "Crime", "Adventure"},
