@@ -1,7 +1,7 @@
 # BridgeLabz Training Progress Log 
 This repository tracks my daily learning journey during the BridgeLabz Java Full Stack Program. Each day includes Git/GitHub activities, Java concepts, and committed code links.
 ---
-### Day 10 – Java Oops Consept
+### Day 10 – Object-oriented Programming Fundamental
 **Date:** 26-Dec-2025
 - Create new branch java-oops-practice
 - work on eclips ide and Java Project -> JavaOopsConsepts
@@ -9,17 +9,24 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 -  Created new Java Project -> JavaOopsConsepts
 -  Code Link: [java-ooops-practice(class and object)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/classandobject)
 ---
-###  Day 11 – Java Constructors and Access Modifiers Concepts
+###  Day 11 – Java Constructors, Instance vs. Class Variables, Access Modifiers Concepts
 **Date:** 27-Dec-2025 
 - Practiced Constructors various problem
 - Solved basic oops problem and Access Modifiers releated questions.
 - Committed and pushed Constructors Program on github
-- Code Link: [java-ooops-practice(Constructors)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/constructor/Level1)
+- Code Link: [java-ooops-practice(constructors)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/constructor/Level1)
 ---
-###  Day 12 – scenario-code-base problem
+###  Day 12 – this, static, final key words and instanceof operator Content 
 **Date:** 29-Dec-2025  
-- solved 5 scenario-based problems
+- solved many problem based on keyword Instance, this, and final
 - Solved practice problems and enchance the feature
 - Pushed solutions to GitHub
-- Code Link: [core-java-practice(scenario-code-base)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+- Code Link: [java-ooops-practice(keyword)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/keywords)
+---
+###  Day 13 – Object Modeling, Class Diagram
+**Date:** 30-Dec-2025  
+- solved many problem based on object Modeling and class Diagram
+- Solved practice problems and enchance the feature
+- Pushed solutions to GitHub
+- Code Link: [java-ooops-practice(objectmodeling)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 ---
