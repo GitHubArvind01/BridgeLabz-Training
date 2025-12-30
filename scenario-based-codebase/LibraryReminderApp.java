@@ -10,6 +10,7 @@ public class LibraryReminderApp{
 	static String[] bookStatus = {"NO","NO","NO","NO","NO"};
 	
 	static int returnBookCount = 5;
+	
 	public static void main(String args[]){
 		//Scanner class to take input from user
 		Scanner sc = new Scanner(System.in);
