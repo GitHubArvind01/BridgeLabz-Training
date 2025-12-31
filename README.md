@@ -94,3 +94,12 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - Code Link: [java-ooops-practice(objectmodeling)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 - Code Link: [core-java-practice(scenario-code-base)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 ---
+###  Day 14 – Inheritance and scenario-code-base problem
+**Date:** 31-Dec-2025  
+- solved many problem based on Inheritance
+- solved 5 scenario-based problems
+- Solved practice problems and enchance the feature
+- Pushed solutions to GitHub
+- Code Link: [java-ooops-practice(objectmodeling)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com)
+- Code Link: [core-java-practice(scenario-code-base)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+---
