@@ -80,3 +80,10 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - Pushed solutions to GitHub
 - Code Link: [core-java-practice(scenario-code-base)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 ---
+###  Day 13 – scenario-code-base problem
+**Date:** 31-Dec-2025  
+- solved 5 scenario-based problems
+- Solved practice problems and enchance the feature
+- Pushed solutions to GitHub
+- Code Link: [core-java-practice(scenario-code-base)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+---
