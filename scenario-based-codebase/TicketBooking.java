@@ -124,6 +124,7 @@ public class TicketBooking{
 		bookedTicket[idx][0] = bookingData[0][mType-1];
 		bookedTicket[idx][1] = bookingData[1][sType-1];
 		bookedTicket[idx][2] = bookingData[2][snType-1];
+		seatList[idx] = "Unavailable";
 		idx+=1;
 		
 		System.out.println("--------------------------");
@@ -133,11 +134,12 @@ public class TicketBooking{
 	
 	//this method show viewBookedTicket
 	public static void viewBookedTicket(){
-		System.out.println("-------------------------------------------");
-		System.out.println("Moive Type\t\tSeat Type\t\tSnack Type");
+		System.out.println("---------------------------------------------------------------------");
+		System.out.printf("%-12s %-30s %-15s%n","Moive Type","Seat Type", "Snack Type");
+		System.out.println("---------------------------------------------------------------------");
 		for(int i=0;i<10;i++){
-			System.out.println(bookedTicket[i][1]+"\t\t\t"+bookedTicket[i][1]+"\t\t\t"+bookedTicket[i][2]);
+			System.out.printf("%-12s %-30s %-15s%n",bookedTicket[i][0],bookedTicket[i][1],bookedTicket[i][2]);
 		}
-		System.out.println("-------------------------------------------");	
+		System.out.println("---------------------------------------------------------------------");
 	}
 }
