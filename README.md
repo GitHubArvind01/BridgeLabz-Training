@@ -28,5 +28,12 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - solved many problem based on object Modeling and class Diagram
 - Solved practice problems and enchance the feature
 - Pushed solutions to GitHub
-- Code Link: [java-ooops-practice(objectmodeling)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+- Code Link: [java-ooops-practice(objectmodeling)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/objectmodeling/AssistedProblems)
+---
+###  Day 14 – Inheritance
+**Date:** 31-Dec-2025  
+- solved many problem based on Inheritance
+- Solved practice problems and enchance the feature
+- Pushed solutions to GitHub
+- Code Link: [java-ooops-practice(objectmodeling)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com)
 ---
