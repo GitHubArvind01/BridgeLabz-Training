@@ -1,23 +1,6 @@
-package com.Inheritance.SampleProblems;
+package com.Inheritance.SampleProblems.Book;
 
-public class BookMain {
-	public static void main(String args[]) {
-		Author b2 = new Author("Automic Habit","2015","James clear","A great book writer");
-		b2.displayInfo();
-	}
-}
-
-class Book{
-	String title;
-	String publicationYear;
-	
-	public Book(String title, String publicationYear) {
-		this.title = title;
-		this.publicationYear = publicationYear;
-	}
-	public void displayInfo(){}
-}
-class Author extends Book{
+public class Author extends Book{
 	String name;
 	String bio;
 	
