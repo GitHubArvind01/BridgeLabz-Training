@@ -12,7 +12,7 @@ public class DeliveredOrder extends ShippedOrder{
 	//method getOrderStatus
 	public void getOrderStatus() {
 		super.getOrderStatus();
-		System.out.println("Delivery Date: "+deliveryDate);
+		System.out.println("Order Delivered Successfull on "+deliveryDate);
 		System.out.println("----------------------------------------");
 	}
 	

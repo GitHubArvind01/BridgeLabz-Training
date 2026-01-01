@@ -12,6 +12,6 @@ public class ShippedOrder extends Order{
 	//method
 	public void getOrderStatus() {
 		super.getOrderStatus();
-		System.out.println("Tracking Number: "+trackingNumber);
+		System.out.println("Orde Shipped-> Tracking Number: "+trackingNumber);
 	}
 }

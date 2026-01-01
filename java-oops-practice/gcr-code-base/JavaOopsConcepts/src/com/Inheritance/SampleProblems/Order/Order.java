@@ -14,7 +14,6 @@ public class Order{
 	//
 	public void getOrderStatus() {
 		System.out.println("------------Delivery Status--------------");
-		System.out.println("Order Id: "+orderId);
-		System.out.println("Order Date: "+orderDate);
+		System.out.println("Order Placed!");
 	}
 }
