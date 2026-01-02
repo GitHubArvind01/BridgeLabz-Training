@@ -37,3 +37,18 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - Pushed solutions to GitHub
 - Code Link: [java-ooops-practice(objectmodeling)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com)
 ---
+###  Day 15 – Encapsulation, Polymorphism, Interface, and Abstract Classes
+**Date:** 01-Jan-2026  
+- solved many problem based on Encapsulation, Polymorphism, Interface, and Abstract Classes
+- Solved practice problems and enchance the feature
+- Pushed solutions to GitHub
+- Code Link: [java-ooops-practice(objectmodeling)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com)
+---
+###  Day 16 – Data Strcuture
+**Date:** 02-Jan-2026  
+- created new branch name "dsa-practice"
+- solved many problem based on linkedlist
+- Solved practice problems and enchance the feature
+- Pushed solutions to GitHub
+- Code Link: [java-ooops-practice(objectmodeling)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com)
+---
