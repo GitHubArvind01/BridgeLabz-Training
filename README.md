@@ -50,5 +50,5 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - solved many problem based on linkedlist
 - Solved practice problems and enchance the feature
 - Pushed solutions to GitHub
-- Code Link: [java-ooops-practice(objectmodeling)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com)
+- Code Link: [dsa-practice(linkedlist)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/linkedlist)
 ---
