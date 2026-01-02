@@ -1,30 +1,18 @@
 package com.encapsulation.employeemanagement;
 
-abstract class PartTimeEmployee extends Employee implements Department{
+public class PartTimeEmployee extends Employee{
 	//attributes
 	private int hoursWorked;
-    private double hourlyRate;
-    private String department;
+	private static final double RATE_PER_HOUR = 500; // fixed rupees
     
 	//constructor
-    public PartTimeEmployee(double employeeId, String name, double baseSalary, int hoursWorked, double hourlyRate,
-			String department) {
-		super(employeeId, name, baseSalary);
+    public PartTimeEmployee(double employeeId, String name, int hoursWorked) {
+		super(employeeId, name);
 		this.hoursWorked = hoursWorked;
-		this.hourlyRate = hourlyRate;
-		this.setDepartment(department);
 	}
     
 	//method
 	public double calculateSalary() {
-		return hoursWorked*hourlyRate;
-	}
-
-	public String getDepartment() {
-		return department;
-	}
-
-	public void setDepartment(String department) {
-		this.department = department;
+		return hoursWorked*RATE_PER_HOUR;
 	}
 }
