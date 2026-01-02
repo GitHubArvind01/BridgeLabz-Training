@@ -66,7 +66,7 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - First we solved 3 scenario-based problems
 -  Learned basic of eclips IDE and solved class and objects problems
 -  Created new Java Project -> JavaOopsConsepts
--  Code Link: [java-ooops-practice(class and object)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/classandobject)
+-  Code Link: [java-oops-practice(class and object)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/classandobject)
 - Code Link: [core-java-practice(scenario-code-base)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 ---
 ###  Day 11 – Java Constructors, Instance vs. Class Variables, Access Modifiers Concepts
@@ -74,7 +74,7 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - Practiced Constructors various problem
 - Solved basic oops problem and Access Modifiers releated questions.
 - Committed and pushed Constructors Program on github
-- Code Link: [java-ooops-practice(constructors)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/constructor/Level1)
+- Code Link: [java-oops-practice(constructors)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/constructor/Level1)
 ---
 ###  Day 12 – this, static, final key words and instanceof operator Content and scenario-code-base problem
 **Date:** 29-Dec-2025  
@@ -82,7 +82,7 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - solved 5 scenario-based problems
 - Solved practice problems and enchance the feature
 - Pushed solutions to GitHub
-- Code Link: [java-ooops-practice(keyword)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/keywords)
+- Code Link: [java-oops-practice(keyword)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/keywords)
 - Code Link: [core-java-practice(scenario-code-base)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 ---
 ###  Day 13 – Object Modeling, Class Diagram and scenario-code-base problem
@@ -91,7 +91,7 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - solved 5 scenario-based problems
 - Solved practice problems and enchance the feature
 - Pushed solutions to GitHub
-- Code Link: [java-ooops-practice(objectmodeling)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+- Code Link: [java-oops-practice(objectmodeling)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 - Code Link: [core-java-practice(scenario-code-base)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 ---
 ###  Day 14 – Inheritance and scenario-code-base problem
@@ -100,7 +100,7 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - solved 5 scenario-based problems
 - Solved practice problems and enchance the feature
 - Pushed solutions to GitHub
-- Code Link: [java-ooops-practice(objectmodeling)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com)
+- Code Link: [java-oops-practice(inheritance)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/Inheritance)
 - Code Link: [core-java-practice(scenario-code-base)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 ---
 ###  Day 15 – Encapsulation, Polymorphism, Interface, and Abstract Classes
@@ -108,13 +108,14 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - solved many problem based on Encapsulation, Polymorphism, Interface, and Abstract Classes
 - Solved practice problems and enchance the feature
 - Pushed solutions to GitHub
-- Code Link: [java-ooops-practice(objectmodeling)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com)
+- Code Link: [java-oops-practice(encapsulation)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/encapsulation)
 ---
-###  Day 16 – Data Strcuture
+###  Day 16 – Data Strcuture and scenario-code-base problem
 **Date:** 02-Jan-2026  
 - created new branch name "dsa-practice"
 - solved many problem based on linkedlist
 - Solved practice problems and enchance the feature
 - Pushed solutions to GitHub
-- Code Link: [java-ooops-practice(objectmodeling)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com)
+- Code Link: [dsa-practice(linkedlist)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/linkedlist)
+- Code Link: [java-oops-practice(scenario-code-base)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodeBase/src/com/OopsScenarioBased)
 ---
