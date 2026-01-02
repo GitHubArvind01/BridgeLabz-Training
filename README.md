@@ -44,13 +44,6 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - Pushed solutions to GitHub
 - Code Link: [java-ooops-practice(Encapsulation)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/encapsulation)
 ---
-###  Day 15 – Encapsulation, Polymorphism, Interface, and Abstract Classes
-**Date:** 01-Jan-2026  
-- solved many problem based on Encapsulation, Polymorphism, Interface, and Abstract Classes
-- Solved practice problems and enchance the feature
-- Pushed solutions to GitHub
-- Code Link: [java-oops-practice(Encapsulation)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/encapsulation)
----
 ###  Day 16 – scenario-code-base problem
 **Date:** 02-Jan-2026
 - solved 5 scenario-based problems
