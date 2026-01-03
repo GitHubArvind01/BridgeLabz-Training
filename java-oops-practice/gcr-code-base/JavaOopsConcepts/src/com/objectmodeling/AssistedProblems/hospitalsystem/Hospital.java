@@ -1,4 +1,4 @@
-package com.objectmodeling.AssistedProblems.hospital;
+package com.objectmodeling.AssistedProblems.hospitalsystem;
 
 public class Hospital {
 	//attributes	
