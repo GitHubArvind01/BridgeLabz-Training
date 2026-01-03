@@ -19,7 +19,7 @@ public class Student {
     }
 
     public List<Subject> getSubjects() {
-        return subjects;
+        return subjects; 
     }
 
     public void requestGrade(GradeCalculator calculator) {

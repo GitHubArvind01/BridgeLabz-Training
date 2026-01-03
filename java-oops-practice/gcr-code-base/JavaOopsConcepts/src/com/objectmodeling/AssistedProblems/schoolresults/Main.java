@@ -14,6 +14,7 @@ public class Main {
         student.addSubject(maths);
         student.addSubject(science);
 
+        
         // Grade calculation
         GradeCalculator calculator = new GradeCalculator();
         student.requestGrade(calculator);
