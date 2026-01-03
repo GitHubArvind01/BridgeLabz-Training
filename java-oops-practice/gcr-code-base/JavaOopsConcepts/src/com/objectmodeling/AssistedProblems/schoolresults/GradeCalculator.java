@@ -8,7 +8,6 @@ public class GradeCalculator {
         }
         return total;
     }
-
     public void calculateGrade(Student student) {
         int total = calculateTotal(student);
         int subjectCount = student.getSubjects().size();
