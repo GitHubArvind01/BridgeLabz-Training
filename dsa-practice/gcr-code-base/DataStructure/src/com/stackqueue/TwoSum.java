@@ -1,7 +1,8 @@
-package com.stackqueue.sortstack;
+package com.stackqueue;
+
 import java.util.HashMap;
 
-public class Main {
+public class TwoSum {
 
 	public static void main(String[] args) {
 		int arr[] = {15,20,7,8,11};
