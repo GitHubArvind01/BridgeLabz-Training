@@ -10,7 +10,7 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - Code Link: [dsa-practice(linkedlist)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/linkedlist)
 ---
 ###  Day 16 – Stack and Queue
-**Date:** 02-Jan-2026  
+**Date:** 03-Jan-2026  
 - solved many problem based on stack and queue
 - Solved practice problems and enchance the feature
 - Pushed solutions to GitHub
