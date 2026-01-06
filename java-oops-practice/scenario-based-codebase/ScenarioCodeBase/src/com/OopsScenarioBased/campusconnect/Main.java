@@ -25,5 +25,11 @@ public class Main {
 		
 		Student stu4 = new Student("ramu","ramu@gmail.com",1004);
 		python.enrollCourse(stu4);
+		
+		Faculty rajaRam = new Faculty("Raja Ram","rajaram@gmail.com",2001);
+		rajaRam.addTeacher(java);
+		
+		rajaRam.showTeacher();
+		
 	}
 }

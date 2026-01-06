@@ -6,6 +6,8 @@ public class Course implements ICourseAction{
 	private int courseId;
 	
 	private List<Student> students = new ArrayList<>();
+	private List<Faculty> facultys = new ArrayList<>();
+	
 	
 	public Course(String courseName, int courseId) {
 		this.courseName = courseName;
@@ -33,5 +35,9 @@ public class Course implements ICourseAction{
 	public void dropCourse(Student student) {
 		students.remove(student);
 		System.out.println("You exit with course name: "+courseName);
+	}
+	
+	public void addFaculty(Faculty faculty) {
+		facultys.add(faculty);
 	}
 }
