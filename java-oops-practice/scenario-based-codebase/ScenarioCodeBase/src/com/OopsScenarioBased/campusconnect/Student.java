@@ -15,7 +15,13 @@ class Student extends Person{
     }
 	
 	//get all course
-	public List<Course> getEnrolledCourse(){
-		return enrolledCourses;
+	public void getStudentDetails() {
+		System.out.println("\n-----------Student Details--------------");
+		
+		System.out.println("Student name: "+getName());
+		for(Course c:enrolledCourses) {
+			System.out.println("Enrolled course: "+c.getCourseName());
+		}
+		System.out.println("----------------------------------------------");
 	}
 }

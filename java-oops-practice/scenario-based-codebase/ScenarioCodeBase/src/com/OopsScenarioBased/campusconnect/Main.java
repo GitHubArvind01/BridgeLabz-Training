@@ -9,10 +9,11 @@ public class Main {
 		Student stu1 = new Student("allu","allu@gmail.com",1001);
 		java.enrollCourse(stu1);
 		
-		
 		Course c = new Course("C",102);
 		
 		Student stu2 = new Student("kali","kali@gmail.com",1002);
+		c.enrollCourse(stu1);
+		
 		c.enrollCourse(stu2);
 		
 		Course cpulsplus = new Course("C++",103);
@@ -28,8 +29,13 @@ public class Main {
 		
 		Faculty rajaRam = new Faculty("Raja Ram","rajaram@gmail.com",2001);
 		rajaRam.addTeacher(java);
+			
 		
-		rajaRam.showTeacher();
+		Faculty raviShiva = new Faculty("Ravi Shiva","ravishiva@gmail.com",2002);
+		raviShiva.addTeacher(python);
 		
+		rajaRam.showTeacher();		
+		
+		stu1.getStudentDetails();
 	}
 }

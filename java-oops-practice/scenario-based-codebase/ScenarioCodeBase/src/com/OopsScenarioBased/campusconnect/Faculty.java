@@ -2,7 +2,7 @@ package com.OopsScenarioBased.campusconnect;
 import java.util.*
 ;
 public class Faculty extends Person{
-	private ArrayList<Course> courseFaculty;;
+	private ArrayList<Course> courseFaculty = new ArrayList<>();
 	
 	public Faculty(String name, String email, int id) {
 		super(name, email, id);
