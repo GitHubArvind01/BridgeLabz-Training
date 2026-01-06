@@ -91,7 +91,7 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - solved 5 scenario-based problems
 - Solved practice problems and enchance the feature
 - Pushed solutions to GitHub
-- Code Link: [java-oops-practice(objectmodeling)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+- Code Link: [java-oops-practice(objectmodeling)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/objectmodeling/AssistedProblems)
 - Code Link: [core-java-practice(scenario-code-base)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 ---
 ###  Day 14 – Inheritance and scenario-code-base problem
@@ -100,7 +100,7 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - solved 5 scenario-based problems
 - Solved practice problems and enchance the feature
 - Pushed solutions to GitHub
-- Code Link: [java-oops-practice(inheritance)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/Inheritance)
+- Code Link: [java-oops-practice(Inheritance)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/Inheritance)
 - Code Link: [core-java-practice(scenario-code-base)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 ---
 ###  Day 15 – Encapsulation, Polymorphism, Interface, and Abstract Classes
@@ -134,13 +134,16 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - Solved 2 scenario based problem
 - Solved practice problems and enchance the feature
 - Pushed solutions to GitHub
-- Code Link: [dsa-practice(stackqueue)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/sortingalgorithms)
+- Code Link: [dsa-practice(sortingalgorithms)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/sortingalgorithms)
 - Code Link: [java-oops-practice(scenario-code-base)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodeBase/src/com/OopsScenarioBased)
 ---
-###  Day 19 – Scenario-code-base problem
+###  Day 19 – Searching algorithm Problem
 **Date:** 06-Jan-2026  
+- solved many problem based on search algorithm
+- StringBuilder, StringBuffer, File Reader, InputStreamReader, and Searching algorithm
 - Solved 2 scenario based problem
 - Solved practice problems and enchance the feature
 - Pushed solutions to GitHub
+- Code Link: [dsa-practice(searchingalgorithms)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/searchingalgorithms)
 - Code Link: [java-oops-practice(scenario-code-base)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodeBase/src/com/OopsScenarioBased)
 ---
