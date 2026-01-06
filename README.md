@@ -21,7 +21,7 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - solved many problem based on sorting algorithm
 - Solved practice problems and enchance the feature
 - Pushed solutions to GitHub
-- Code Link: [dsa-practice(sortingalorithm)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/sortingalgorithms)
+- Code Link: [dsa-practice(sortingalorithms)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/sortingalgorithms)
 ---
 ###  Day 19 – Searching algorithm Problem
 **Date:** 06-Jan-2026  
@@ -29,5 +29,5 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - StringBuilder, StringBuffer, File Reader, InputStreamReader, and Searching algorithm
 - Solved practice problems and enchance the feature
 - Pushed solutions to GitHub
-- Code Link: [dsa-practice(sortingalorithm)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/searchingalgorithms)
+- Code Link: [dsa-practice(searchingalgorithms)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/searchingalgorithms)
 ---
