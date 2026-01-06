@@ -9,10 +9,17 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - Pushed solutions to GitHub
 - Code Link: [dsa-practice(linkedlist)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/linkedlist)
 ---
-###  Day 16 – Stack and Queue
+###  Day 17 – Stack and Queue
 **Date:** 03-Jan-2026  
 - solved many problem based on stack and queue
 - Solved practice problems and enchance the feature
 - Pushed solutions to GitHub
 - Code Link: [dsa-practice(Stack & Queue)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/stackqueue)
+---
+###  Day 18 – Sorting algorithm
+**Date:** 05-Jan-2026  
+- solved many problem based on sorting algorithm
+- Solved practice problems and enchance the feature
+- Pushed solutions to GitHub
+- Code Link: [dsa-practice(sortingalorithm)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/sortingalgorithms)
 ---
