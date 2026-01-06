@@ -119,3 +119,28 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - Code Link: [dsa-practice(linkedlist)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/linkedlist)
 - Code Link: [java-oops-practice(scenario-code-base)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodeBase/src/com/OopsScenarioBased)
 ---
+###  Day 17 – Stack & Queue and scenario-code-base problem
+**Date:** 03-Jan-2026  
+- solved many problem based on stack and queue
+- Solved 2 scenario based problem
+- Solved practice problems and enchance the feature
+- Pushed solutions to GitHub
+- Code Link: [dsa-practice(stackqueue)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/stackqueue)
+- Code Link: [java-oops-practice(scenario-code-base)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodeBase/src/com/OopsScenarioBased)
+---
+###  Day 18 – Sorting Algorithm and scenario-code-base problem
+**Date:** 05-Jan-2026  
+- solved many problem based on sorting algorithm problem
+- Solved 2 scenario based problem
+- Solved practice problems and enchance the feature
+- Pushed solutions to GitHub
+- Code Link: [dsa-practice(stackqueue)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/sortingalgorithms)
+- Code Link: [java-oops-practice(scenario-code-base)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodeBase/src/com/OopsScenarioBased)
+---
+###  Day 19 – Scenario-code-base problem
+**Date:** 06-Jan-2026  
+- Solved 2 scenario based problem
+- Solved practice problems and enchance the feature
+- Pushed solutions to GitHub
+- Code Link: [java-oops-practice(scenario-code-base)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodeBase/src/com/OopsScenarioBased)
+---
