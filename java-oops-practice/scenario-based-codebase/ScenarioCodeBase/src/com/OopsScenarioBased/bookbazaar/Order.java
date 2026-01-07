@@ -8,7 +8,7 @@ public class Order implements IDiscountable {
 	
 	
 	//this method borrow book
-	public 
+	 
 	
 	//this method return book
 	
@@ -16,8 +16,8 @@ public class Order implements IDiscountable {
 	//this method calculate the price -> price × quantity – discount.
 	
 	//this method work for discount
-	@Override
+//	@Override
 	public void applyDiscount() {
-		
+		System.out.println("hello");
 	}
 }
