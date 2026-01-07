@@ -18,11 +18,11 @@ public class Cat extends Pet implements IInteractable {
 
 	@Override
 	public void sleep() {
-		System.out.println("Cat is playing.");
+		System.out.println("Cat is sleeping.");
 	}
 	
 	public void makeSound() {
-		System.out.println("Me ao Me ao");
+		System.out.println("Sound-Me ao Me ao");
 	}
 	
 }
