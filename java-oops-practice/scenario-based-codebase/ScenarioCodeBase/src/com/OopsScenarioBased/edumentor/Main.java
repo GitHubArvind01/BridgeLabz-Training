@@ -40,19 +40,24 @@ public class Main {
 			switch(c){
 				case 'S':
 					System.out.println("Enter your ID: ");
-					
-					//call the showQuestion method
-					quiz.showQuestion();
+					int id = sc.nextInt();
+					quiz.showQuestion(id);
 					break;
 				case 'A':
-					quiz.showAnswer();
+					System.out.println("Enter your ID: ");
+					int idP = sc.nextInt();
+					quiz.showProgress(idP);
 					break;
 				case 'C':
-					quiz.generateCertificate();
+					System.out.println("Enter Student ID: ");
+					int idC = sc.nextInt();
+					quiz.generateCertificate(idC);
 					break;
 				default:
 					System.out.println("Invalid input!");
 			}
 		}
+		
+		kali.seeStudentData();
 	}
 }
