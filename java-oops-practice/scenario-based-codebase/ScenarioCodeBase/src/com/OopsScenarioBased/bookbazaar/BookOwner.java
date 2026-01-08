@@ -27,6 +27,7 @@ public class BookOwner {
 		System.out.println("-----------------------Full Book List Details-------------------------");
 		for(Book b : bookList) {
 			System.out.println("------------Book "+(i)+" ------------------");
+			System.out.println("Book Id: "+b.getBookID());
 			System.out.println("Book Title: "+b.getTitle());
 			System.out.println("Book Author: "+b.getAuthor());
 			System.out.println("Book Type: "+b.getType());
@@ -37,4 +38,28 @@ public class BookOwner {
 		}
 		System.out.println("-------------------------------------------------------------------");
 	}
+	
+	//view all user status
+	public void viewAllUser() {
+		int i = 1;
+		System.out.println("-----------------------Users Details-------------------------");
+		for(var books : Order.userBook.entrySet()){
+			System.out.println("------------User "+(i)+" ------------------");
+			System.out.println("User Id: "+books.getKey());
+			for(Book b : books.getValue()){
+				System.out.println("Book Id: "+b.getBookID());
+				System.out.println("Book Title: "+b.getTitle());
+				System.out.println("Book Author: "+b.getAuthor());
+				System.out.println("Book Type: "+b.getType());
+				System.out.println("Book Price: "+b.getPrice());
+				System.out.println("Book Stocks: "+b.getStock());
+				System.out.println();
+			}
+			System.out.println("----------------------------------");
+			i+=1;
+		}
+		System.out.println("-------------------------------------------------------------------");
+	}
+	
+	//view user by userId
 }

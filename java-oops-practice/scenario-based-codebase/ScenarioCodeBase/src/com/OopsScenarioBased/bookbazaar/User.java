@@ -1,19 +1,13 @@
 package com.OopsScenarioBased.bookbazaar;
 
 public class User {
-	private String userName;
-	private String address;
+	private int userId;
 	
-	public User(String userName, String address) {
-		this.userName = userName;
-		this.address = address;
+	public User(int userId) {
+		this.userId = userId;
 	}
 
-	public String getUserName() {
-		return userName;
-	}
-
-	public String getAddress() {
-		return address;
+	public int getUserId() {
+		return userId;
 	}
 }

@@ -4,14 +4,15 @@ import java.util.*;
 
 public class Main {
 	static Scanner sc = new Scanner(System.in);
+	private static int counter = 1000; //this is for generate userID
 	public static void main(String[] args) {
 		
 		//Book object
-		Book ebook1 = new EBook("Automic Habit","James Clear",499,10);
-		Book ebook2 = new EBook("Rich Dad Poor Dad","Robort T. Kiyosaki",399,5);
-		Book ebook3 = new EBook("The Power of Subconscious Mind","Joseph Murphy",699,50);
-		Book printedBook1 = new PrintedBook("ASDF","Temp King",1499,101);
-		Book printedBook2 = new PrintedBook("RFRFRF","TTTTTT",4199,2);
+		Book ebook1 = new EBook("Automic Habit","James Clear",499,10,101);
+		Book ebook2 = new EBook("Rich Dad Poor Dad","Robort T. Kiyosaki",399,5,102);
+		Book ebook3 = new EBook("The Power of Subconscious Mind","Joseph Murphy",699,50,103);
+		Book printedBook1 = new PrintedBook("ASDF","Temp King",1499,11,104);
+		Book printedBook2 = new PrintedBook("RFRFRF","TTTTTT",4199,2,105);
 		
 		//BookOwner can add book, remove, and manage inventory
 		BookOwner owner = new BookOwner();
@@ -21,7 +22,7 @@ public class Main {
 		owner.addBook(printedBook1);
 		owner.addBook(printedBook2);
 		
-		
+		Order order = new Order();
 		
 		//here work start
 		while(true){
@@ -41,11 +42,31 @@ public class Main {
 			}
 			
 			switch(c){
-				case 'S':
-
+				case 'B':
+					owner.viewAllBooks();
+					System.out.println("Enter the book id to borrow: ");
+					int bookID = sc.nextInt();
+					
+					System.out.println("Enter the qauantity: ");
+					int quantity = sc.nextInt();	
+					
+					System.out.println("Enter your user id: ");
+					int userId = sc.nextInt();
+					order.borrowBook(userId, bookID, quantity);
 					break;
-				case 'A':
-
+				case 'R':
+//					System.out.println("Enter the book number to borrow: ");
+//					int returnbookID = sc.nextInt();
+//					
+//					System.out.println("Enter the qauantity: ");
+//					int returnquantity = sc.nextInt();
+//					
+//					System.out.println("Enter your userId: ");
+//					
+//					int returnuserID = sc.nextInt();
+//					sc.nextLine();
+//					
+//					order.returnBook(returnuserID, returnbookID, returnquantity);
 					break;
 				case 'C':
 
@@ -54,5 +75,10 @@ public class Main {
 					System.out.println("Invalid input!");
 			}
 		}
+		
+		owner.viewAllUser();;
+	}
+	public static int randomId() {
+		return counter+=1;
 	}
 }
