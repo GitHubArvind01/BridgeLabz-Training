@@ -31,3 +31,11 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - Pushed solutions to GitHub
 - Code Link: [dsa-practice(searchingalgorithms)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/searchingalgorithms)
 ---
+### Day 20 – Time and Space Complexity 
+**Date:** 07-Jan-2026  
+- Solved 6 problems based on time and space complexity
+- Improved design & problem-solving skills  
+
+🔗 Code Link:  
+- [Time and Space Complexity](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/timeandspacecomplexity) 
+---
