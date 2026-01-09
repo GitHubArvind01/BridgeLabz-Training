@@ -39,3 +39,11 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 🔗 Code Link:  
 - [Time and Space Complexity](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/timeandspacecomplexity) 
 ---
+### Day 21 – Leet Code Problem Practice
+**Date:** 09-Jan-2026  
+- Solved 1 problem on leetcode
+- Improved design & problem-solving skills  
+
+🔗 Code Link:  
+- [leetcode]() 
+---
