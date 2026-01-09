@@ -9,14 +9,25 @@ class Solution {
             char left = s.charAt(i);
 
             if(left=='[' || left=='(' || left=='{'){
-                stack.push(left);
+                stack.apush(left);
             }
             else{
+                if(stack.isEmpty()){
+                    return false;
+                }
                 char right = stack.peek();
                 if(
-                    (right==l)
-                )
+                    (left==']' && right=='[') ||
+                    (left=='}' && right=='{') || 
+                    (left==')' && right=='(')
+                ){
+                    stack.pop();
+                }else{
+                    return false;
+                }
             }
+            i+=1;
         }
+        return stack.isEmpty()?true:false;
     }
 }
