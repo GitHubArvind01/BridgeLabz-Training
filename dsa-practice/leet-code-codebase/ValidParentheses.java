@@ -1,4 +1,4 @@
-//20. Valid Parentheses
+//20. Valid Parentheses of problem
 
 class Solution {
     public boolean isValid(String s) {
