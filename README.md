@@ -254,3 +254,8 @@ Each day includes:
 [Scenario Code Base](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodeBase/src/com/OopsScenarioBased)
 
 ---
+
+## 🗓️ Week 4 – Java Collections Practice 
+**Focus:** Working with collections problem
+
+---
