@@ -41,9 +41,9 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 ---
 ### Day 21 – Leet Code Problem Practice
 **Date:** 09-Jan-2026  
-- Solved 1 problem on leetcode
+- Solved 3 problem on leetcode
 - Improved design & problem-solving skills  
 
 🔗 Code Link:  
-- [leetcode]() 
+- [leetcode](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase) 
 ---
