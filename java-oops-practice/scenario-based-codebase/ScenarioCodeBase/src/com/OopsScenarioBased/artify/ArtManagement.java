@@ -1,7 +1,7 @@
 package com.OopsScenarioBased.artify;
 import java.util.*;
 
-public class ArtManagement {
+public class ArtManagement implements IPurchasable{
 	//this  class manage both buyer and seller
 	//User
 	static List<Artwork> artList = new ArrayList<>();
@@ -44,10 +44,21 @@ public class ArtManagement {
 		for(Artwork works:artList) {
 			if(works.getTitle().equalsIgnoreCase(title)) {
 				if(works.getPrice()<=user.getWalletBalance()) {
-					double tempPrice = works.getPrice();
-					user.setWalletBalance((user.getWalletBalance()-tempPrice));
-					artList.remove(works);
+					double tempPrice = works.getPrice(); //artist price 
+					double userwalletAmount = user.getWalletBalance(); //user wallet amount
+					
 					System.out.println(title+" art buy Success.");
+					System.out.println("Art price "+tempPrice);
+					
+					user.setWalletBalance((userwalletAmount-tempPrice)); 
+					if(works.getLicenseType().equalsIgnoreCase("Exclusive")) {
+						double discount = license(works.getPrice());
+						user.setWalletBalance(user.getWalletBalance()+discount);
+						
+						System.out.println("Discount you got : "+discount);
+						System.out.println("Total art price: "+(tempPrice-discount));
+					}
+					artList.remove(works);
 					return;
 				}else {
 					System.out.println("Amout not sufficient to buy!");
@@ -56,6 +67,12 @@ public class ArtManagement {
 			}
 		}
 		System.out.println("Title not found!");
+	}
+	
+	//another license
+	public double license(double price) {
+		//get discount by license
+		return (price*0.1);
 	}
 	
 	//user can see their
