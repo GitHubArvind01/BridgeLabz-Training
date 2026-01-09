@@ -259,3 +259,14 @@ Each day includes:
 **Focus:** Working with collections problem
 
 ---
+### Day 22 – Scenario-Based Problems and Leetcode Problems  
+**Date:** 09-Jan-2026  
+- Solved 3 scenario-based problems  
+- Solved 3 Leetcode Problems
+- Improved design & problem-solving skills  
+
+🔗 Code Link:  
+[Scenario Code Base](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodeBase/src/com/OopsScenarioBased)
+[LeetCode](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
+
+---
