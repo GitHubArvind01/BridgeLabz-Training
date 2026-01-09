@@ -236,8 +236,17 @@ Each day includes:
 
 ---
 
-### Day 20 – Scenario-Based Problems  
+### Day 20 – Scenario-Based Problems and Time and Space Complexity 
 **Date:** 07-Jan-2026  
+- Solved 2 scenario-based problems  
+- Improved design & problem-solving skills  
+
+🔗 Code Link:  
+[Scenario Code Base](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodeBase/src/com/OopsScenarioBased)
+- [Time and Space Complexity](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/timeandspacecomplexity) 
+---
+### Day 21 – Scenario-Based Problems  
+**Date:** 08-Jan-2026  
 - Solved 3 scenario-based problems  
 - Improved design & problem-solving skills  
 
