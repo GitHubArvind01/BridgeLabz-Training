@@ -10,42 +10,37 @@ public class Instructor{
 	
 	//add instructor
 	public void addCourse(int id, Course newCourse) {
-		for(var instructor:instructorMap.entrySet()) {
-			if(instructor.getKey()==id) {
-				//instructor id same want to add new course then add it
-				ArrayList<Course> courseList = new ArrayList<>();
-				courseList.addAll(instructor.getValue());
-				courseList.add(newCourse);
-				instructorMap.put(id, courseList);
-				System.out.println("Added course - "+newCourse.getTitle());
-				return;
-			}
+		
+		if(instructorMap.containsKey(id)) {
+			instructorMap.get(id).add(newCourse);
+			System.out.println("Added course- "+newCourse.getTitle());
+		}else {
+			ArrayList<Course> temp = new ArrayList<>();
+			temp.add(newCourse);
+			instructorMap.put(id,temp);
+			System.out.println("Added course -"+newCourse.getTitle());
 		}
-		ArrayList<Course> temp = new ArrayList<>();
-		temp.add(newCourse);
-		instructorMap.put(id,temp);
-		System.out.println("Added course -"+newCourse.getTitle());
 	}
 	
 	//view course
 	public void viewCourse(int id) {
-		for(var instructor : instructorMap.entrySet()) {
-			if(instructor.getKey()==id) {
-				System.out.println("-------------------------------Course Details---------------------------------");
-				ArrayList<Course> courseList = instructorMap.get(id);
-				int i = 1;
-				for(Course courses:courseList) {
-					System.out.println("-----Course-> "+(i)+"------------");
-					System.out.println("Coures Title: "+courses.getTitle());
-					System.out.println("Courese Id: "+courses.getCourseId());
-					System.out.println("Courese rating: "+courses.getRating());
-					System.out.println("----------------------");
-					i+=1;
-				}
-				return;
+		System.out.println("-------------------------------Course Details---------------------------------");
+		if(instructorMap.containsKey(id)) {
+			ArrayList<Course> courseList = instructorMap.get(id);
+			int i = 1;
+			for(Course courses:courseList) {
+				System.out.println("-----Course-> "+(i)+"------------");
+				System.out.println("Coures Title: "+courses.getTitle());
+				System.out.println("Courese Id: "+courses.getCourseId());
+				System.out.println("Courese rating: "+courses.getRating());
+				System.out.println("----------------------");
+				i+=1;
 			}
-			System.out.println("----------------------------------------------------------------------------------");
 		}
+		else {
+			System.out.println("Id not found!");
+		}
+		System.out.println("----------------------------------------------------------------------------------");
 	}
 	
 	//view all course
