@@ -270,3 +270,12 @@ Each day includes:
 [LeetCode](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
 
 ---
+### Day 23 – Scenario-Based Problems
+**Date:** 09-Jan-2026  
+- Solved 3 scenario-based problems  
+- Improved design & problem-solving skills  
+
+🔗 Code Link:  
+[Scenario Code Base](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioQuestion/src/com/question)
+
+---
