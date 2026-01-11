@@ -47,3 +47,11 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 🔗 Code Link:  
 - [leetcode](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase) 
 ---
+### Day 21 – Scenario Based Problems
+**Date:** 10-Jan-2026  
+- Solved 3 scenario based problem
+- Improved design & problem-solving skills  
+
+🔗 Code Link:  
+- [scenario-based-codebase](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioQuestion/src/com/question) 
+---
