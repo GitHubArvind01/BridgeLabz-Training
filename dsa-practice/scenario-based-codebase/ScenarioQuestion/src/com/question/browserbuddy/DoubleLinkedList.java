@@ -102,14 +102,15 @@ public class DoubleLinkedList {
 		tabs.push(closeTab);
 		
 		if(closeTab.next!=null) {
-			curr = closeTab.next;
-			curr.pre = closeTab.pre;
-		}else {
-			curr = closeTab.pre;
+			closeTab.next.pre = closeTab.pre;
 		}
-		
 		if(closeTab.pre!=null) {
 			closeTab.pre.next = closeTab.next;
+		}
+		if(closeTab.next!=null) {
+			curr = closeTab.next;
+		}else {
+			curr = closeTab.pre;
 		}
 		System.out.println("\nTab closed.");
 	}
