@@ -271,7 +271,7 @@ Each day includes:
 
 ---
 ### Day 23 – Scenario-Based Problems
-**Date:** 09-Jan-2026  
+**Date:** 10-Jan-2026  
 - Solved 3 scenario-based problems  
 - Improved design & problem-solving skills  
 
