@@ -11,15 +11,18 @@ public class Main {
 		text.insertText("are");
 		text.insertText("you?");
 		
+		text.viewText();
 		
 		text.deleteText();
+		text.viewText();
 		
 		text.undo();
+		text.viewText();
 		
 		text.redo();
+		text.viewText();
 		
 		text.undo();
-		
-		text.viewText();
+		text.viewText();		
 	}
 }

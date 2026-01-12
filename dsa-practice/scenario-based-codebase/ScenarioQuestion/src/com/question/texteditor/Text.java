@@ -8,6 +8,7 @@ public class Text {
 	//insert text
 	public void insertText(String text) {
 		data.push(text);
+		restoreData.clear();
 		System.out.println("text added");
 	}
 	
@@ -43,8 +44,9 @@ public class Text {
 	
 	//view text
 	public void viewText() {
-		while(!data.isEmpty()) {
-			System.out.print(data.pop()+" ");
+		for(String s: data) {
+			System.out.print(s+" ");
 		}
+		System.out.println();
 	}
 }
