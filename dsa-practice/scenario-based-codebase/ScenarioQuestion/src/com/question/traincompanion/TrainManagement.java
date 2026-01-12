@@ -6,7 +6,8 @@ public class TrainManagement {
 	//add compartment 
 	public void addCompartment(Train newTrain) {
 		if(head==null) {
-			head = curr  = newTrain;
+			head = newTrain;
+			curr  = newTrain;
 			System.out.println("Add compartment node first");
 			return;
 		}
@@ -33,25 +34,25 @@ public class TrainManagement {
 	//search for pentry
 	public void searchPreviousePentry() {
 		Train temp = curr;
-		while(temp!=head) {
-			if(temp.compartmentName.equalsIgnoreCase("pentry")) {
-				System.out.println("\nPentry found in previouse compartment number "+temp.compartmentNumber);
+		while(temp!=null) {
+			if(temp.compartmentName.equalsIgnoreCase("pantry")) {
+				System.out.println("\nPantry found in previouse compartment number "+temp.compartmentNumber);
 				return;
 			}
 			temp = temp.prev;
 		}
-		System.out.println("pentry not found in previouse compartment!");
+		System.out.println("pantry not found in previouse compartment!");
 	}
 	
 	public void searchForwardPentry() {
 		Train temp = curr;
 		while(temp!=null) {
-			if(temp.compartmentName.equalsIgnoreCase("pentry")) {
-				System.out.println("\nPentry found in forward compartment number "+temp.compartmentNumber);
+			if(temp.compartmentName.equalsIgnoreCase("pantry")) {
+				System.out.println("\nPantry found in forward compartment number "+temp.compartmentNumber);
 				return;
 			}
 			temp = temp.next;
 		}
-		System.out.println("pentry not found in forward compartment!");
+		System.out.println("pantry not found in forward compartment!");
 	}
 }
