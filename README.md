@@ -126,7 +126,7 @@ Each day includes:
 
 🔗 Code Links:  
 - [Class & Object](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/classandobject)  
-- [Scenario Code Base](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+- [Scenario Code Base(core)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
 
@@ -149,7 +149,7 @@ Each day includes:
 
 🔗 Code Links:  
 - [Keywords](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/keywords)  
-- [Scenario Code Base](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+- [Scenario Code Base(core)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
 
@@ -161,7 +161,7 @@ Each day includes:
 
 🔗 Code Links:  
 - [Object Modeling](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/objectmodeling/AssistedProblems)  
-- [Scenario Code Base](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+- [Scenario Code Base(core)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
 
@@ -172,7 +172,7 @@ Each day includes:
 
 🔗 Code Links:  
 - [Inheritance](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/Inheritance)  
-- [Scenario Code Base](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+- [Scenario Code Base(core)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
 
@@ -198,7 +198,7 @@ Each day includes:
 
 🔗 Code Links:  
 - [Linked List](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/linkedlist)  
-- [Scenario Code Base](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodeBase/src/com/OopsScenarioBased)
+- [Scenario Code Base(OOPs)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodeBase/src/com/OopsScenarioBased)
 
 ---
 
@@ -209,7 +209,7 @@ Each day includes:
 
 🔗 Code Links:  
 - [Stack & Queue](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/stackqueue)  
-- [Scenario Code Base](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodeBase/src/com/OopsScenarioBased)
+- [Scenario Code Base(OOPs)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodeBase/src/com/OopsScenarioBased)
 
 ---
 
@@ -220,7 +220,7 @@ Each day includes:
 
 🔗 Code Links:  
 - [Sorting Algorithms](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/sortingalgorithms)  
-- [Scenario Code Base](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodeBase/src/com/OopsScenarioBased)
+- [Scenario Code Base(OOPs)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodeBase/src/com/OopsScenarioBased)
 
 ---
 
@@ -232,7 +232,7 @@ Each day includes:
 
 🔗 Code Links:  
 - [Searching Algorithms](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/searchingalgorithms)  
-- [Scenario Code Base](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodeBase/src/com/OopsScenarioBased)
+- [Scenario Code Base(OOPs)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodeBase/src/com/OopsScenarioBased)
 
 ---
 
@@ -242,23 +242,21 @@ Each day includes:
 - Improved design & problem-solving skills  
 
 🔗 Code Link:  
-[Scenario Code Base](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodeBase/src/com/OopsScenarioBased)
+[Scenario Code Base(OOPs)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodeBase/src/com/OopsScenarioBased)
 - [Time and Space Complexity](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/timeandspacecomplexity) 
+
 ---
+
 ### Day 21 – Scenario-Based Problems  
 **Date:** 08-Jan-2026  
 - Solved 3 scenario-based problems  
 - Improved design & problem-solving skills  
 
 🔗 Code Link:  
-[Scenario Code Base](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodeBase/src/com/OopsScenarioBased)
+[Scenario Code Base(OOPs)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodeBase/src/com/OopsScenarioBased)
 
 ---
 
-## 🗓️ Week 4 – Java Collections Practice 
-**Focus:** Working with collections problem
-
----
 ### Day 22 – Scenario-Based Problems and Leetcode Problems  
 **Date:** 09-Jan-2026  
 - Solved 3 scenario-based problems  
@@ -266,16 +264,43 @@ Each day includes:
 - Improved design & problem-solving skills  
 
 🔗 Code Link:  
-[Scenario Code Base](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodeBase/src/com/OopsScenarioBased)
+[Scenario Code Base(OOPs)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodeBase/src/com/OopsScenarioBased)
 [LeetCode](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
 
 ---
+
 ### Day 23 – Scenario-Based Problems
 **Date:** 10-Jan-2026  
-- Solved 3 scenario-based problems  
+- Solved 3 scenario-based problems in OOPs 
+- Solved 3 scenario-based problems in data structure
 - Improved design & problem-solving skills  
 
 🔗 Code Link:  
-[Scenario Code Base](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioQuestion/src/com/question)
+[Scenario Code Base(DSA)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioQuestion/src/com/question)
+[Scenario Code Base(OOPs)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodeBase/src/com/OopsScenarioBased)
+
+---
+
+### Day 24 – Scenario-Based Problems
+**Date:** 12-Jan-2026  
+- Solved 3 scenario-based problems in OOPs 
+- Solved 3 scenario-based problems in data structure
+- Improved design & problem-solving skills  
+
+🔗 Code Link:  
+[Scenario Code Base(DSA)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioQuestion/src/com/question)
+[Scenario Code Base(OOPs)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodeBase/src/com/OopsScenarioBased)
+
+---
+
+### Day 25 – Scenario-Based Problems
+**Date:** 13-Jan-2026  
+- Solved 3 scenario-based problems in OOPs 
+- Solved 3 scenario-based problems in data structure
+- Improved design & problem-solving skills  
+
+🔗 Code Link:  
+[Scenario Code Base(DSA)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioQuestion/src/com/question)
+[Scenario Code Base(OOPs)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodeBase/src/com/OopsScenarioBased)
 
 ---
