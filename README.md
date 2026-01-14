@@ -88,6 +88,20 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 ---
 ###  Day 22 – scenario-code-base problem
 **Date:** 09-Jan-2026
+- solved 3 scenario-based problems
+- Solved practice problems and enchance the feature
+- Pushed solutions to GitHub
+- Code Link: [java-oops-practice(scenario-code-base)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodeBase/src/com/OopsScenarioBased)
+---
+###  Day 23 – scenario-code-base problem
+**Date:** 12-Jan-2026
+- solved 3 scenario-based problems
+- Solved practice problems and enchance the feature
+- Pushed solutions to GitHub
+- Code Link: [java-oops-practice(scenario-code-base)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodeBase/src/com/OopsScenarioBased)
+---
+###  Day 24 – scenario-code-base problem
+**Date:** 13-Jan-2026
 - solved 2 scenario-based problems
 - Solved practice problems and enchance the feature
 - Pushed solutions to GitHub
