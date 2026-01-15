@@ -1,7 +1,7 @@
 # 📘 BridgeLabz Training Progress Log
 
 This repository tracks my **daily learning journey** during the  
-**BridgeLabz – Capgemini Java Full Stack Training Program**.
+**BridgeLabz – Java Full Stack Training Program**.
 
 Each day includes:
 - Concepts learned
@@ -302,5 +302,17 @@ Each day includes:
 🔗 Code Link:  
 - [Scenario Code Base(DSA)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioQuestion/src/com/question)
 - [Scenario Code Base(OOPs)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodeBase/src/com/OopsScenarioBased)
+
+---
+
+### Day 26 – Scenario-Based Problems
+**Date:** 15-Jan-2026  
+- Solved 2 problem in java-collections
+- Solved 2 scenario-based problems in data structure
+- Improved design & problem-solving skills  
+
+🔗 Code Link:  
+- [Scenario Code Base(DSA)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioQuestion/src/com/question)
+- [java-collections-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com)
 
 ---
