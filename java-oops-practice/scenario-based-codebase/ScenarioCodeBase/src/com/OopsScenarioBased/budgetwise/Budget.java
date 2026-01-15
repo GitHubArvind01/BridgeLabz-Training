@@ -1,21 +1,12 @@
 package com.OopsScenarioBased.budgetwise;
 import java.util.*;
 
-public class Budget {
-	enum Category {
-	    FOOD,
-	    RENT,
-	    TRANSPORT,
-	    SHOPPING,
-	    ENTERTAINMENT,
-	    UTILITIES
-	}
-	
+public class Budget {	
 	private double income;
 	private double limit;
-	Map<Category, Double> categoryLimits;
+	Map<String, Double> categoryLimits;
 	
-	public Budget(double income, double limit, Map<Category, Double> categoryLimits) {
+	public Budget(double income, double limit, Map<String, Double> categoryLimits) {
 		this.income = income;
 		this.limit = limit;
 		this.categoryLimits = categoryLimits;
