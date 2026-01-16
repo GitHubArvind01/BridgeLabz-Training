@@ -1,5 +1,4 @@
 package com.generics.resumescreenin;
-import java.util.*;
 
 public class Resume<T extends JobRole> {
 	private T candidate;
