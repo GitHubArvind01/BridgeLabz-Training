@@ -305,14 +305,26 @@ Each day includes:
 
 ---
 
-### Day 26 – Scenario-Based Problems
+### Day 26 – Scenario-Based Problems and Java Generics
 **Date:** 15-Jan-2026  
-- Solved 2 problem in java-collections
+- Solved problem in java-collections generic problem
 - Solved 2 scenario-based problems in data structure
 - Improved design & problem-solving skills  
 
 🔗 Code Link:  
 - [Scenario Code Base(DSA)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioQuestion/src/com/question)
-- [java-collections-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com)
+- [java-collections-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/generics)
+
+---
+
+### Day 27 – Scenario-Based Problems and Java Collections
+**Date:** 16-Jan-2026  
+- Solved problem in java-collections
+- Solved 2 scenario-based problems in data structure
+- Improved design & problem-solving skills  
+
+🔗 Code Link:  
+- [Scenario Code Base(DSA)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioQuestion/src/com/question)
+- [java-collections-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/collections)
 
 ---
