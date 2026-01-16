@@ -11,13 +11,24 @@ Each day includes:
 
 ---
 
-### Day 26 – Git & GitHub Setup  
+### Day 26 – Java Generic
 **Date:** 15-Jan-2025  
 - Create New branch 'java-collections-practice'
 - Solved Problem based on Java Generics
 - Improved design & problem-solving skills
 
 🔗 Code Link:  
-- [java-collections-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com)
+- [java-collections-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/generics)
+
+---
+
+### Day 27 – Java Collections
+**Date:** 16-Jan-2025  
+- Create New branch 'java-collections-practice'
+- Solved Problem based on Java Collection
+- Improved design & problem-solving skills
+
+🔗 Code Link:  
+- [java-collections-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/collections)
 
 ---
