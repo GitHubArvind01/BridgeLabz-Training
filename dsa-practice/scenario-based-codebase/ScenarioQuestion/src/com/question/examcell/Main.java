@@ -2,7 +2,7 @@ package com.question.examcell;
 
 public class Main {
 	public static void main(String args[]) {
-		Exam exam[] = {new Exam("Allu",1,355), new Exam("Ravi",4,135), new Exam("kali",56,411), new Exam("suriya",14,233), new Exam("sonu",41,455)};
+		Exam exam[] = {new Exam("Allu",1,655), new Exam("Ravi",4,535), new Exam("kali",56,411), new Exam("suriya",14,545), new Exam("sonu",41,455)};
 		
 		Exam result[] = merge(exam,0,exam.length-1);
 		
