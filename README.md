@@ -25,7 +25,7 @@ Each day includes:
 ### Day 27 – Java Collections
 **Date:** 16-Jan-2025  
 - Create New branch 'java-collections-practice'
-- Solved Problem based on Java Collection
+- Solved Problem based on Java Collections
 - Improved design & problem-solving skills
 
 🔗 Code Link:  
