@@ -308,7 +308,7 @@ Each day includes:
 ### Day 26 – Scenario-Based Problems and Java Generics
 **Date:** 15-Jan-2026  
 - Solved problem in java-collections generic problem
-- Solved 2 scenario-based problems in data structure
+- Solved 5 scenario-based problems in data structure
 - Improved design & problem-solving skills  
 
 🔗 Code Link:  
@@ -320,11 +320,23 @@ Each day includes:
 ### Day 27 – Scenario-Based Problems and Java Collections
 **Date:** 16-Jan-2026  
 - Solved problem in java-collections
-- Solved 2 scenario-based problems in data structure
+- Solved 3 scenario-based problems in data structure
 - Improved design & problem-solving skills  
 
 🔗 Code Link:  
 - [Scenario Code Base(DSA)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioQuestion/src/com/question)
 - [java-collections-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/collections)
+
+---
+
+### Day 28 – Scenario-Based Problems
+**Date:** 17-Jan-2026  
+- Solved 2 scenario-based problems in 'java-oops-practice'
+- Solved 4 scenario-based problems in 'dsa-practice'
+- Improved design & problem-solving skills  
+
+🔗 Code Link:  
+- [Scenario Code Base(DSA)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioQuestion/src/com/question)
+- [Scenario Code Base(OOPs)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioCodeBase/src/com/OopsScenarioBased)
 
 ---
