@@ -8,7 +8,7 @@ public class Main {
 		Artists artists[] = {new Artists("Allu",LocalTime.of(12, 11)), new Artists("Pushpa",LocalTime.of(02, 40)), new Artists("Alice",LocalTime.of(22, 30)), new Artists("King",LocalTime.of(16, 45)), new Artists("Sallu",LocalTime.of(14, 45))};
 		
 		//call method to sort
-		bubbleSort(artists,artists.length);
+		insertionSort(artists,artists.length);
 		
 		//display
 		System.out.printf("%-30s %-10s\n","Artist Name", "Time");
@@ -17,7 +17,7 @@ public class Main {
 		}
 	}
 	
-	public static void bubbleSort(Artists artists[], int n) {
+	public static void insertionSort(Artists artists[], int n) {
 		for(int i=1;i<n;i++) {
 			Artists top = artists[i];
 			
