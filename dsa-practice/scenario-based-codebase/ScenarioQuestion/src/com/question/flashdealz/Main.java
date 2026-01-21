@@ -20,7 +20,7 @@ public class Main {
 			return;
 		}
 		double pivot = product[end].percentage;
-		int j = 0;
+		int j = start;
 		int i = start-1;
 		
 		while(j<end) {
