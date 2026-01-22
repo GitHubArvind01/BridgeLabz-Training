@@ -39,6 +39,8 @@ public class Main {
 				try {
 					byte[] buffer = new byte[4096];
 					int byteRead = readData.read(buffer);
+					System.out.println("byte read int: \n"+byteRead);
+					System.out.println("buffer int[]: \n"+buffer.toString());
 					if(byteRead!=-1) {
 						String message = new String(buffer,0,byteRead);
 						System.out.println("\nRead Thread : message-");
