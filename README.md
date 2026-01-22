@@ -354,3 +354,13 @@ Each day includes:
 - [java-collections-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/streams)
 
 ---
+
+### Day 30 – Scenario-Based Problems and Java Streams
+**Date:** 20-Jan-2026  
+- Solved 3 scenario-based problems in 'dsa-practice'
+- Improved design & problem-solving skills  
+
+🔗 Code Link:  
+- [Scenario Code Base(DSA)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioQuestion/src/com/question)
+
+---
