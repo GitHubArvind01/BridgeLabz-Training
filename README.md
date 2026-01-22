@@ -42,10 +42,10 @@ Each day includes:
 
 ---
 
-### Day 28 – Java Exceptions
+### Day 29 – Java Exceptions
 **Date:** 20-Jan-2025  
 - Solved Problem based on Java Exceptions
-- Improved design & problem-solving skills
+- Improved design and problem-solving skills
 
 🔗 Code Link:  
 - [java-collections-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/exceptions)
