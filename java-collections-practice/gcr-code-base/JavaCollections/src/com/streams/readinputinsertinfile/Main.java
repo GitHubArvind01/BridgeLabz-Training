@@ -20,9 +20,9 @@ public class Main {
 		try {
 			FileOutputStream data = new FileOutputStream("textFiles/data.txt");
 			
-			data.write(name.getBytes());
-			data.write(String.valueOf(age).getBytes());
-			data.write(language.getBytes());
+			data.write(String.valueOf("Name: "+name).getBytes());
+			data.write(String.valueOf("\nAge: "+age).getBytes());
+			data.write(String.valueOf("\nFavourite Programing Language: "+language).getBytes());
 			
 			System.out.println("data inserted into file.");
 			data.close();
