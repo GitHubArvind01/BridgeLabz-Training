@@ -59,4 +59,9 @@ public class UniversityRecord {
 		}
 		return search(curr.getLeft(), roll) || 		search(curr.getRight(),roll);
 	}
+	
+	//delete
+	public void deleteStudentByRollNumber(int roll) {
+		
+	}
 }
