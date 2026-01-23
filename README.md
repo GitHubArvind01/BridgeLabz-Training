@@ -150,3 +150,13 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 - [scenario-based-codebase](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioQuestion/src/com/question) 
 
 ---
+
+### Day 31 – Scenario Based Tree Problems
+**Date:** 22-Jan-2026  
+- Solved 3 scenario based problem on tree data structure
+- Improved design and problem-solving skills  
+
+🔗 Code Link:  
+- [scenario-based-codebase](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioQuestion/src/com/tree) 
+
+---
