@@ -397,6 +397,7 @@ Each day includes:
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
-- [java-collections-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionScenarios/src/com/questions)
+- [java-ioprogramming-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-ioprogramming-practice)
+- [Scenario Code Base(collections)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionScenarios/src/com/questions)
 
 ---
