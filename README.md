@@ -365,3 +365,38 @@ Each day includes:
 - [java-collections-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/exceptions)
 
 ---
+
+### Day 31 – Scenario Based Problems & Regex and JUnit 
+**Date:** 21-Jan-2026  
+- Solved Problem based on Java Regex and JUnit
+- Solved 2 scenario-based problems in 'dsa-practice'
+- Improved design and problem-solving skills  
+
+🔗 Code Link:  
+- [Scenario Code Base(DSA)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioQuestion/src/com/question)
+- [java-collections-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/regexjunit)
+
+---
+
+### Day 32 – Scenario Based Problems & Annotations and Reflection
+**Date:** 22-Jan-2026  
+- Solved Problem based on Java Annotations and Reflection
+- Solved 2 scenario-based problems based on tree in 'dsa-practice'
+- Improved design and problem-solving skills  
+
+🔗 Code Link:  
+- [Scenario Code Base(DSA)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioQuestion/src/com/question)
+- [java-collections-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/annotationsreflection)
+
+---
+
+### Day 33 – Scenario Based Problems and IO Programming
+**Date:** 23-Jan-2026  
+- Solved Collections Problems based on scenario 
+- Created new branch `java-ioprogramming-practice`  
+- Improved design and problem-solving skills  
+
+🔗 Code Link:  
+- [java-collections-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionScenarios/src/com/questions)
+
+---
