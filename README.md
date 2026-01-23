@@ -51,3 +51,23 @@ Each day includes:
 - [java-collections-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/exceptions)
 
 ---
+
+### Day 30 – Regex and JUnit
+**Date:** 21-Jan-2025  
+- Solved Problem based on Java Regex and JUnit
+- Improved design and problem-solving skills
+
+🔗 Code Link:  
+- [java-collections-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/regexjunit)
+
+---
+
+### Day 31 – Annotations and Reflection
+**Date:** 22-Jan-2025  
+- Solved Problem based on Java Annotations and Reflection
+- Improved design and problem-solving skills
+
+🔗 Code Link:  
+- [java-collections-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/annotationsreflection)
+
+---
