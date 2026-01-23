@@ -331,8 +331,8 @@ Each day includes:
 
 ### Day 28 – Scenario-Based Problems
 **Date:** 17-Jan-2026  
-- Solved 2 scenario-based problems in 'java-oops-practice'
-- Solved 4 scenario-based problems in 'dsa-practice'
+- Solved 2 scenario-based problems in `java-oops-practice`
+- Solved 4 scenario-based problems in `dsa-practice`
 - Improved design & problem-solving skills  
 
 🔗 Code Link:  
@@ -343,8 +343,8 @@ Each day includes:
 
 ### Day 29 – Scenario-Based Problems and Java Streams
 **Date:** 19-Jan-2026  
-- Solved 1 scenario-based problems in 'java-oops-practice'
-- Solved 3 scenario-based problems in 'dsa-practice'
+- Solved 1 scenario-based problems in `java-oops-practice`
+- Solved 3 scenario-based problems in `dsa-practice`
 - Solved Problems in Java Streams
 - Improved design & problem-solving skills  
 
@@ -357,7 +357,7 @@ Each day includes:
 
 ### Day 30 – Scenario-Based Problems and Java Exceptions
 **Date:** 20-Jan-2026  
-- Solved 3 scenario-based problems in 'dsa-practice'
+- Solved 3 scenario-based problems in `dsa-practice`
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
@@ -369,7 +369,7 @@ Each day includes:
 ### Day 31 – Scenario Based Problems & Regex and JUnit 
 **Date:** 21-Jan-2026  
 - Solved Problem based on Java Regex and JUnit
-- Solved 2 scenario-based problems in 'dsa-practice'
+- Solved 2 scenario-based problems in `dsa-practice`
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
@@ -381,7 +381,7 @@ Each day includes:
 ### Day 32 – Scenario Based Problems & Annotations and Reflection
 **Date:** 22-Jan-2026  
 - Solved Problem based on Java Annotations and Reflection
-- Solved 2 scenario-based problems based on tree in 'dsa-practice'
+- Solved 2 scenario-based problems based on tree in `dsa-practice`
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
