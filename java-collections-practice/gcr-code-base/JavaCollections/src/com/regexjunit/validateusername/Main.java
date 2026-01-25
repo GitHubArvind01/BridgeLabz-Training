@@ -21,7 +21,8 @@ public class Main {
 				case 'P':
 					System.out.println("Enter password: ");
 					String s = sc.nextLine();
-				
+					
+					
 					System.out.println(s.matches("^[a-zA-Z][a-zA-Z0-9_]{4,15}$"));
 					break;
 				default:
