@@ -5,7 +5,7 @@ public class Main {
 	static Scanner sc = new Scanner(System.in);
 	public static void main(String[] args) {
 		while(true) {
-			System.out.println("Password Validate-> 'P': ");
+			System.out.println("License Validate-> 'L': ");
 			System.out.println("Exit-> Enter 'E': ");
 			
 			char c = sc.next().charAt(0);
@@ -17,11 +17,11 @@ public class Main {
 			}
 			
 			switch(c) {
-				case 'P':
-					System.out.println("Enter password: ");
+				case 'L':
+					System.out.println("Enter License: ");
 					String s = sc.nextLine();
 				
-					System.out.println(s.matches("^[a-zA-Z][a-zA-Z0-9_]{4,15}$"));
+					System.out.println(s.matches("^[A-Z]{2}[0-9]{4}$"));
 					break;
 				default:
 					System.out.println("Invalid input!");
@@ -30,8 +30,7 @@ public class Main {
 		}
 	}
 }
-/*
- * Requirement-> Can only contain letters (a-z, A-Z), numbers (0-9), and underscores (_) 
- * must start with letter
- * at length should be 5 - 15
+/*Validate a License Plate Number
+ *License plate format: Starts with two Upper case letters, followed by four digits.
+ *Example: "AB1234" is valid, but "A12345" is invalid 
  */
