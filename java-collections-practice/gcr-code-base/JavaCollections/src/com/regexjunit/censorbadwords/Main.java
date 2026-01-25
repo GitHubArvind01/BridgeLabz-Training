@@ -15,7 +15,7 @@ public class Main {
 		System.out.println("Old text: "+text);
 		
 		for(String l : list) {
-			text = text.replaceAll(l, "*****");
+			text = text.replaceAll("\\b"+l+"\\b", "*****");
 		}
 		
 		System.out.println("New Text: "+text);
