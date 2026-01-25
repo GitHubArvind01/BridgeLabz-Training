@@ -1,8 +1,24 @@
 package com.regexjunit.junitquestions.testingstringutility;
 
-public class Main {
+import static org.junit.Assert.*;
 
-	public static void main(String[] args) {
-		
+import org.junit.jupiter.api.Test;
+
+public class Main {
+	StringUtils string = new StringUtils();
+	
+	@Test
+	void matchReverse() {
+		assertEquals("fdsa",string.reverse("asdf"));
+	}
+	
+	@Test
+	void palindrome() {
+		assertEquals(true,string.isPalindrome("aaccaa"));
+	}
+	
+	@Test
+	void uppercase() {
+		assertEquals("ASDF",string.toUpperCase("asdf"));
 	}
 }
