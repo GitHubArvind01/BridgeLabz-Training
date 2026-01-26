@@ -58,8 +58,8 @@ Each day includes:
 - Improved design and problem-solving skills
 
 🔗 Code Link:  
-- [java-collections-practice]`regex`(https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/regexjunit)
-- [java-collections-practice]`junit`(https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/regexjunit/junitquestions)
+- [java-collections-practice(regex)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/regexjunit)
+- [java-collections-practice(junit)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/regexjunit/junitquestions)
 ---
 
 ### Day 31 – Annotations and Reflection
@@ -68,8 +68,8 @@ Each day includes:
 - Improved design and problem-solving skills
 
 🔗 Code Link:  
-- [java-collections-practice]`annotations-` (https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/annotationsreflection/annotations)
-- [java-collections-practice]`reflections-` (https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/annotationsreflection/reflection)
+- [java-collections-practice(annotations)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/annotationsreflection/annotations)
+- [java-collections-practice(reflections)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/annotationsreflection/reflection)
 ---
 
 ### Day 32 – Scenario based Problems
