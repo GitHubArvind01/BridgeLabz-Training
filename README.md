@@ -374,8 +374,8 @@ Each day includes:
 
 🔗 Code Link:  
 - [Scenario Code Base(DSA)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioQuestion/src/com/question)
-- [java-collections-practice]`regex`(https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/regexjunit)
-- [java-collections-practice]`junit`(https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/regexjunit/junitquestions)
+- [java-collections-practice(regex)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/regexjunit)
+- [java-collections-practice(junit)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/regexjunit/junitquestions)
 
 ---
 
@@ -386,9 +386,9 @@ Each day includes:
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
-- [Scenario Code Base]`DSA`(https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioQuestion/src/com/question)
-- [java-collections-practice]`annotations-` (https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/annotationsreflection/annotations)
-- [java-collections-practice]`reflections-` (https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/annotationsreflection/reflection)
+- [Scenario Code Base(DSA)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioQuestion/src/com/question)
+- [java-collections-practice(annotations)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/annotationsreflection/annotations)
+- [java-collections-practice(reflections)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/annotationsreflection/reflection)
 
 ---
 
@@ -400,7 +400,7 @@ Each day includes:
 
 🔗 Code Link:  
 - [java-iostreams-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-iostreams-practice)
-- [Scenario Code Base]`collections`(https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionScenarios/src/com/questions)
+- [Scenario Code Base(collections)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionScenarios/src/com/questions)
 
 ---
 
