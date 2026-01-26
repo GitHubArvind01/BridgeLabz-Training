@@ -374,7 +374,8 @@ Each day includes:
 
 🔗 Code Link:  
 - [Scenario Code Base(DSA)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioQuestion/src/com/question)
-- [java-collections-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/regexjunit)
+- [java-collections-practice]`regex`(https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/regexjunit)
+- [java-collections-practice]`junit`(https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/regexjunit/junitquestions)
 
 ---
 
@@ -385,19 +386,30 @@ Each day includes:
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
-- [Scenario Code Base(DSA)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioQuestion/src/com/question)
-- [java-collections-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/annotationsreflection)
+- [Scenario Code Base]`DSA`(https://github.com/GitHubArvind01/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioQuestion/src/com/question)
+- [java-collections-practice]`annotations-` (https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/annotationsreflection/annotations)
+- [java-collections-practice]`reflections-` (https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-code-base/JavaCollections/src/com/annotationsreflection/reflection)
 
 ---
 
 ### Day 33 – Scenario Based Problems and IO Programming
 **Date:** 23-Jan-2026  
 - Solved Collections Problems based on scenario 
-- Created new branch `java-ioprogramming-practice`  
+- Created new branch `java-iostreams-practice`  
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
-- [java-ioprogramming-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-ioprogramming-practice)
-- [Scenario Code Base(collections)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionScenarios/src/com/questions)
+- [java-iostreams-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-iostreams-practice)
+- [Scenario Code Base]`collections`(https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionScenarios/src/com/questions)
+
+---
+
+### Day 34 – JSON Data
+**Date:** 24-Jan-2026  
+- Solved Collections Problems based JSON Data
+- Improved design and problem-solving skills  
+
+🔗 Code Link:  
+- [java-iostreams-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-iostreams-practice)
 
 ---
