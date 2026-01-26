@@ -16,6 +16,7 @@ public class Main {
 				System.out.println("Age: "+data[2]);
 				System.out.println("Score: "+data[3]);
 				System.out.println("-----------------------");
+				reader.close();
 			}
 			
 		}
