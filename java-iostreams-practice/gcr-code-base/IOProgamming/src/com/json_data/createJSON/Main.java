@@ -1,4 +1,4 @@
-package com.writedatatocsv;
+package com.json_data.createJSON;
 
 public class Main {
 

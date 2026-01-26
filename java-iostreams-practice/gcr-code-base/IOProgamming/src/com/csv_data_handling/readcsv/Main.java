@@ -1,4 +1,4 @@
-package com.readcsv;
+package com.csv_data_handling.readcsv;
 
 public class Main {
 
