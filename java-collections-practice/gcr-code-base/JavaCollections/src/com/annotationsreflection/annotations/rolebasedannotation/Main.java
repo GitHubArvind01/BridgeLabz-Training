@@ -2,7 +2,7 @@ package com.annotationsreflection.annotations.rolebasedannotation;
 
 public class Main {
 
-    static String currentUserRole = "ADMIN"; // change to ADMIN
+    static String currentUserRole = "USER"; // change to ADMIN
 
     public static void main(String[] args) {
         try {
