@@ -19,6 +19,6 @@ Each day includes:
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
-- [java8-programmming-practice(Lambda Expressions)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-iostreams-practice/java8-programmming-practice)
-- [java8-programmming-practice(Functional Interfaces)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-iostreams-practice/java8-programmming-practice)
+- [java8-programmming-practice(Lambda Expressions)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/gcr-code-base/Java8Features/src/com/lambdaexpressions)
+- [java8-programmming-practice(Functional Interfaces)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/gcr-code-base/Java8Features/src/com/functionalInterfaces)
 ---
