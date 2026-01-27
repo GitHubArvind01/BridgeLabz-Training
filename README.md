@@ -271,8 +271,8 @@ Each day includes:
 
 ### Day 23 – Scenario-Based Problems
 **Date:** 10-Jan-2026  
-- Solved 3 scenario-based problems in OOPs 
-- Solved 3 scenario-based problems in data structure
+- Solved 3 scenario-based problems in `OOPs` 
+- Solved 3 scenario-based problems in `dsa-practice`
 - Improved design & problem-solving skills  
 
 🔗 Code Link:  
@@ -283,8 +283,8 @@ Each day includes:
 
 ### Day 24 – Scenario-Based Problems
 **Date:** 12-Jan-2026  
-- Solved 3 scenario-based problems in OOPs 
-- Solved 3 scenario-based problems in data structure
+- Solved 3 scenario-based problems in `OOPs` 
+- Solved 3 scenario-based problems in `dsa-practice`
 - Improved design & problem-solving skills  
 
 🔗 Code Link:  
@@ -295,8 +295,8 @@ Each day includes:
 
 ### Day 25 – Scenario-Based Problems
 **Date:** 13-Jan-2026  
-- Solved 3 scenario-based problems in OOPs 
-- Solved 3 scenario-based problems in data structure
+- Solved 3 scenario-based problems in `OOPs` 
+- Solved 3 scenario-based problems in `dsa-practice`
 - Improved design & problem-solving skills  
 
 🔗 Code Link:  
@@ -305,10 +305,14 @@ Each day includes:
 
 ---
 
+## 🗓️ Week 4 – Java Collections and Streams
+**Focus:** Collection, Genrics, Steram, Exceptions, Regex & JUnit, and Annotation & Reflections
+
+---
 ### Day 26 – Scenario-Based Problems and Java Generics
 **Date:** 15-Jan-2026  
-- Solved problem in java-collections generic problem
-- Solved 5 scenario-based problems in data structure
+- Solved problem in java-collections `generic` problem
+- Solved 5 scenario-based problems in `dsa-practice`
 - Improved design & problem-solving skills  
 
 🔗 Code Link:  
@@ -319,8 +323,8 @@ Each day includes:
 
 ### Day 27 – Scenario-Based Problems and Java Collections
 **Date:** 16-Jan-2026  
-- Solved problems in java-collections
-- Solved 3 scenario-based problems in data structure
+- Solved problems in `java-collections`
+- Solved 3 scenario-based problems in `dsa-practice`
 - Improved design & problem-solving skills  
 
 🔗 Code Link:  
@@ -392,10 +396,14 @@ Each day includes:
 
 ---
 
+## 🗓️ Week 5 – Java IO Progamming
+**Focus:** CSV File Handling and JSON
+
+---
 ### Day 33 – Scenario Based Problems and CSV Handling
 **Date:** 23-Jan-2026  
-- Solved Collections Problems based on scenario 
-- Solved Problem on CSV Hanldings
+- Solved Scenario based problem in `java-collections-practice`
+- Solved Problem on `CSV Hanldings`
 - Created new branch `java-iostreams-practice`  
 - Improved design and problem-solving skills  
 
@@ -407,10 +415,26 @@ Each day includes:
 
 ### Day 34 – JSON Data
 **Date:** 24-Jan-2026  
-- Solved Collections Problems based JSON Data
+- Solved Collections Problems based `JSON`
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
 - [java-iostreams-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-code-base/IOProgamming/src/com/json)
 
+---
+
+## 🗓️ Week 6 – Java 8 Features
+**Focus:** Lambda Expression and Function Interfaces
+
+---
+### Day 35 – Java 8 & It's Features
+**Date:** 27-Jan-2026  
+- Create new branch `java8-programmming-practice`
+- Solved Collections Problems based on Lambda Expressions
+- Solved Collections Problems based on Functional Interfaces
+- Improved design and problem-solving skills  
+
+🔗 Code Link:  
+- [java8-programmming-practice(Lambda Expressions)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/gcr-code-base/Java8Features/src/com/lambdaexpressions)
+- [java8-programmming-practice(Functional Interfaces)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/gcr-code-base/Java8Features/src/com/functionalInterfaces)
 ---
