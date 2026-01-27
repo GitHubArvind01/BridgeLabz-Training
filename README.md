@@ -392,14 +392,15 @@ Each day includes:
 
 ---
 
-### Day 33 – Scenario Based Problems and IO Programming
+### Day 33 – Scenario Based Problems and CSV Handling
 **Date:** 23-Jan-2026  
 - Solved Collections Problems based on scenario 
+- Solved Problem on CSV Hanldings
 - Created new branch `java-iostreams-practice`  
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
-- [java-iostreams-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-iostreams-practice)
+- [java-iostreams-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-code-base/IOProgamming/src/com/csv_data_handling)
 - [Scenario Code Base(collections)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionScenarios/src/com/questions)
 
 ---
@@ -410,6 +411,6 @@ Each day includes:
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
-- [java-iostreams-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-iostreams-practice)
+- [java-iostreams-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-code-base/IOProgamming/src/com/json)
 
 ---
