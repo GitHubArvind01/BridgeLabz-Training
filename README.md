@@ -28,6 +28,6 @@ Each day includes:
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
-- [java-iostreams-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-code-base/IOProgamming/src/com/json_data)
+- [java-iostreams-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-code-base/IOProgamming/src/com/json)
 
 ---
