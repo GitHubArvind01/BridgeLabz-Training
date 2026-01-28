@@ -21,4 +21,15 @@ Each day includes:
 🔗 Code Link:  
 - [java8-programmming-practice(Lambda Expressions)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/gcr-code-base/Java8Features/src/com/lambdaexpressions)
 - [java8-programmming-practice(Functional Interfaces)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/gcr-code-base/Java8Features/src/com/functionalInterfaces)
+
+---
+
+### Day 35 – Scenario Based Problem
+**Date:** 28-Jan-2026  
+- Solved Sceanrio based problem in Stream API
+- Improved design and problem-solving skills  
+
+🔗 Code Link:  
+- [java8-programmming-practice(scenario)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/scenario-code-base/ScenarioBased/src/com/questions)
+
 ---
