@@ -1,6 +1,7 @@
 package com.questions.employee;
 
 import java.util.Comparator;
+import java.util.Optional;
 import java.util.stream.Collectors;
 
 public class EmployeeMain {
@@ -66,6 +67,7 @@ public class EmployeeMain {
 							.filter(Employee-> Employee.getYearOfJoining()>=2015)
 							.forEach(System.out::println);
 		
+		
 		//6. Count the number of employees in each department ?
 		System.out.println("\n6. Count the number of employees in each department ?");
 		System.out.println(data.employeeList.stream()
@@ -80,5 +82,21 @@ public class EmployeeMain {
 					.collect(Collectors.groupingBy(Employee::getDepartment,Collectors
 							.averagingDouble(Employee::getSalary)))
 				);
+		
+		
+		//8. Get the details of youngest male employee in the IT department ?
+		System.out.println("\n8. Get the details of youngest male employee in the IT department ?");
+		Optional<Employee> youngest = data.employeeList.stream()
+				.collect(Collectors.minBy(Comparator.comparing(Employee::getAge)));
+		
+		System.out.println(
+					youngest.get()
+				);
+		
+		//9. Who has the most working experience in the organization?
+		System.out.println("\n9. Who has the most working experience in the organization?");
+		Optional<Employee> maxExperience = data.employeeList.stream()
+															.collect(Collectors.minBy(Comparator.comparing(Employee::getYearOfJoining)));
+		System.out.println(maxExperience.get());
 	}
 }
