@@ -72,5 +72,13 @@ public class EmployeeMain {
 											.collect(Collectors.groupingBy(Employee::getDepartment,Collectors.counting())));
 		
 		
+		
+		//7. What is the average salary of each department ?
+		System.out.println("\n7. What is the average salary of each department ?");
+		System.out.println(
+					data.employeeList.stream()
+					.collect(Collectors.groupingBy(Employee::getDepartment,Collectors
+							.averagingDouble(Employee::getSalary)))
+				);
 	}
 }
