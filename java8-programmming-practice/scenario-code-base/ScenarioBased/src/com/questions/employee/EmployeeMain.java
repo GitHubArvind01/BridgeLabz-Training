@@ -42,7 +42,6 @@ public class EmployeeMain {
 		
 		//3. What is the average age of male and female employees ?
 		System.out.println("\n3. What is the average age of male and female employees ?");
-		
-		
+		System.out.println(		data.employeeList.stream().collect(Collectors.groupingBy(Employee::getGender,Collectors.averagingInt(Employee::getAge))));
 	}
 }
