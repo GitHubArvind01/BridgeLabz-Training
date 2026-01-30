@@ -208,7 +208,10 @@ public class StudentMain {
 		
 		
 		System.out.println("\n6.Find the department with the highest average rank.");
-		
+		System.out.println(
+					data.studentList.stream()
+									.collect(Collectors.groupingBy(Student::getDepartment,Collectors.averagingDouble(Student::getRank)))
+				);
 		
 		/*
 		 Min / Max / Ranking Problems
@@ -226,10 +229,68 @@ public class StudentMain {
 		6.Find the oldest student.
 		 */
 		
-		System.out.println("----------------------------Part 4---------------------------------");
+		System.out.println("\n----------------------------Part 4---------------------------------");
 		System.out.println("Min / Max / Ranking Problems");
 		System.out.println("-------------------------------------------------------------------");	
 		
+		
+		System.out.println("\n1.Find the student with the best (lowest) rank.");
+		System.out.println(
+					data.studentList.stream()
+									.sorted(Comparator.comparing(Student::getRank))
+									.skip(0)
+									.findFirst()
+				);
+		
+		
+		
+		System.out.println("\n2.Find the student with the worst (highest) rank.");
+		System.out.println(
+					data.studentList.stream()
+									.sorted(Comparator.comparing(Student::getRank).reversed())
+									.skip(0)
+									.findFirst()
+				);
+		
+		
+		
+		System.out.println("\n3.Find the second best rank holder.");
+		System.out.println(
+				data.studentList.stream()
+								.sorted(Comparator.comparing(Student::getRank).reversed())
+								.skip(1)
+								.findFirst()
+			);
+		
+		
+		
+		System.out.println("\n4.Find the third best rank holder.");
+		System.out.println(
+				data.studentList.stream()
+								.sorted(Comparator.comparing(Student::getRank).reversed())
+								.skip(2)
+								.findFirst()
+				);
+		
+		
+		
+		System.out.println("\n5.Find the youngest student.");
+		System.out.println(
+				data.studentList.stream()
+								.sorted(Comparator.comparing(Student::getAge))
+								.skip(0)
+								.findFirst()
+				);
+		
+		
+		
+		System.out.println("\n6.Find the oldest student.");
+		System.out.println(
+				data.studentList.stream()
+								.sorted(Comparator.comparing(Student::getAge).reversed())
+								.skip(0)
+								.findFirst()
+				);
 		
 		
 		/*
@@ -243,9 +304,32 @@ public class StudentMain {
 		
 		4.Print unique contact numbers.
 		*/
-		System.out.println("----------------------------Part 5---------------------------------");
+		System.out.println("\n----------------------------Part 5---------------------------------");
 		System.out.println("FlatMap & Collections");
 		System.out.println("-------------------------------------------------------------------");	
+		
+		
+		
+		System.out.println("\n1.Print all contact numbers of all students.");
+		data.studentList.stream()
+						.forEach(x->System.out.println(x.getName()+" = "+x.getContacts()));
+		
+		
+		System.out.println("\n2.Count the total number of contact numbers.");
+		System.out.println(
+					data.studentList.stream()
+									.map(Student::getContacts)
+									.distinct()
+									.count()
+				);
+		
+		
+		System.out.println("\n4.Print unique contact numbers.");
+		data.studentList.stream()
+						.map(Student::getContacts)
+						.distinct()
+						.forEach(System.out::println);
+		
 		
 		
 		/*
@@ -257,9 +341,27 @@ public class StudentMain {
 		
 		3.Check if no student belongs to Civil Engineering.
 		*/
-		System.out.println("----------------------------Part 6---------------------------------");
+		System.out.println("\n----------------------------Part 6---------------------------------");
 		System.out.println("Conditional & Matching");
 		System.out.println("-------------------------------------------------------------------");	
+		
+		
+		System.out.println("\n1.Check if any student belongs to Biotech Engineering.");
+		data.studentList.stream()
+						.filter(Student-> Student.getDepartment().equalsIgnoreCase("IT"))
+						.forEach(System.out::println);
+		
+		System.out.println("\n2.Check if all students are above age 20.");
+		data.studentList.stream()
+						.filter(Student-> Student.getAge()>=20)
+			
+						.forEach(System.out::println);
+		
+		System.out.println("\n2.Check if all students are above age 20.");
+		data.studentList.stream()
+						.filter(Student-> Student.getDepartment().equals("Civil Engineering"))
+						.forEach(System.out::println);
+		
 		
 		
 		/*
@@ -277,7 +379,7 @@ public class StudentMain {
 		
 		*/
 				
-		System.out.println("----------------------------Part 7---------------------------------");
+		System.out.println("\n----------------------------Part 7---------------------------------");
 		System.out.println("Gender-Based Analysis");
 		System.out.println("-------------------------------------------------------------------");	
 		
@@ -295,7 +397,7 @@ public class StudentMain {
 		
 		*/
 		
-		System.out.println("----------------------------Part 8---------------------------------");
+		System.out.println("\n----------------------------Part 8---------------------------------");
 		System.out.println("Department-Specific Queries");
 		System.out.println("-------------------------------------------------------------------");	
 		
@@ -316,7 +418,7 @@ public class StudentMain {
 		6.Find students whose rank is odd.
 		*/
 			
-		System.out.println("----------------------------Part 9---------------------------------");
+		System.out.println("\n----------------------------Part 9---------------------------------");
 		System.out.println("Advanced Level");
 		System.out.println("-------------------------------------------------------------------");
 		
@@ -339,8 +441,10 @@ public class StudentMain {
 		
 		 */
 		
-		System.out.println("----------------------------Part 9---------------------------------");
+		System.out.println("\n----------------------------Part 9---------------------------------");
 		System.out.println("Bonus Challenges");
 		System.out.println("-------------------------------------------------------------------");
+		
+		
 	}
 }
