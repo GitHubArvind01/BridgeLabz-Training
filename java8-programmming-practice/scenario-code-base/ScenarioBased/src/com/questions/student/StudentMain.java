@@ -550,5 +550,35 @@ public class StudentMain {
 		System.out.println("-------------------------------------------------------------------");
 		
 		
+		System.out.println("\n1.Find the top 3 youngest students.");
+		data.studentList.stream()
+						.sorted(Comparator.comparing(Student::getAge))
+						.limit(3)
+						.forEach(System.out::println);
+		
+		
+		System.out.println("\n2.Find the top 3 oldest students.");
+		data.studentList.stream()
+						.sorted(Comparator.comparing(Student::getAge).reversed())
+						.limit(3)
+						.forEach(System.out::println);
+		
+		
+		System.out.println("\n3.Partition students based on age > 25.");
+		data.studentList.stream()
+						.filter(Student-> Student.getAge()>25)
+						.forEach(System.out::println);
+		
+		
+		System.out.println("\n4.Partition students based on rank < 100.");
+		data.studentList.stream()
+						.filter(Student-> Student.getRank()<100)
+						.forEach(System.out::println);
+		
+		
+		System.out.println("\n5.Find the city having maximum students.");
+		data.studentList.stream()
+						.collect(Collectors.groupingBy(Student::getCity, Collectors.counting()));
+
 	}
 }
