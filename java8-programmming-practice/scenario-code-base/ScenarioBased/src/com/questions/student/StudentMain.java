@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
 public class StudentMain {
 
 	public static void main(String[] args) {
-		Student ravi = new Student("Allu Arvind",101,"hhh",11,"male","bhopal",52,"748737373","IT");
+		Student ravi = new Student("Allu Arvind",101,"hhh",11,"male","Karnataka",52,"748737373","Electronics Engineering");
 		Student sonu = new Student("sonu",102,"ggg",32,"male","patan",720,"547145154","HR");
 		Student kavi = new Student("kavi",103,"fff",44,"male","delhi",229,"5555455454","IT");
 		Student somya = new Student("spmya",104,"eee",22,"female","goa",280,"7473444473","IT");
@@ -357,7 +357,7 @@ public class StudentMain {
 			
 						.forEach(System.out::println);
 		
-		System.out.println("\n2.Check if all students are above age 20.");
+		System.out.println("\n3.Check if no student belongs to Civil Engineering.");
 		data.studentList.stream()
 						.filter(Student-> Student.getDepartment().equals("Civil Engineering"))
 						.forEach(System.out::println);
@@ -384,6 +384,45 @@ public class StudentMain {
 		System.out.println("-------------------------------------------------------------------");	
 		
 		
+		System.out.println("\n1.Count male and female students.");
+		System.out.println(
+					data.studentList.stream()
+									.collect(Collectors.groupingBy(Student::getGender, Collectors.counting()))
+				);
+		
+		
+		System.out.println("\n2.Find the average age of male students.");
+		System.out.println(
+					data.studentList.stream()
+									.filter(Student-> Student.getGender().equalsIgnoreCase("male"))
+									.collect(Collectors.groupingBy(Student::getGender, Collectors.averagingInt(Student::getAge)))
+				);
+		
+		
+		System.out.println("\n3.Find the average age of female students.");
+		System.out.println(
+				data.studentList.stream()
+								.filter(Student-> Student.getGender().equalsIgnoreCase("female"))
+								.collect(Collectors.groupingBy(Student::getGender, Collectors.averagingInt(Student::getAge)))
+			);
+		
+		
+		System.out.println("\n4.Find the highest ranked male student.");
+		System.out.println(
+				data.studentList.stream()
+								.filter(Student-> Student.getGender().equalsIgnoreCase("male"))
+								.collect(Collectors.groupingBy(Student::getGender, Collectors.averagingDouble(Student::getRank)))
+			);
+		
+		
+		
+		System.out.println("\n5.Find the highest ranked female student.");
+		System.out.println(
+				data.studentList.stream()
+								.filter(Student-> Student.getGender().equalsIgnoreCase("female"))
+								.collect(Collectors.groupingBy(Student::getGender, Collectors.averagingDouble(Student::getRank)))
+			);
+		
 		/*
 		*** Department-Specific Queries
 		
@@ -401,8 +440,44 @@ public class StudentMain {
 		System.out.println("Department-Specific Queries");
 		System.out.println("-------------------------------------------------------------------");	
 		
-		/*	 
 		
+		System.out.println("\n1.List students department-wise with names only.");
+		System.out.println(
+					data.studentList.stream()
+									.collect(Collectors.groupingBy(Student::getDepartment, Collectors.groupingBy(Student::getName)))
+				);
+		
+		
+		System.out.println("\n2.Find the youngest student in Computer Engineering.");
+		System.out.println(
+					data.studentList.stream()
+									.filter(Student-> Student.getDepartment().equalsIgnoreCase("Computer Engineering"))
+									.sorted(Comparator.comparing(Student::getAge))
+									.skip(0)
+									.findAny()
+				);
+		
+		
+		System.out.println("\n3.Find the top-ranked student in Mechanical Engineering.");
+		System.out.println(
+				data.studentList.stream()
+								.filter(Student-> Student.getDepartment().equalsIgnoreCase("Mechanical Engineering"))
+								.sorted(Comparator.comparing(Student::getAge).reversed())
+								.skip(0)
+								.findAny()
+			);
+		
+		
+		
+		System.out.println("\n4.Count students in Electronics Engineering from Karnataka.");
+		System.out.println(
+				data.studentList.stream()
+								.filter(Student-> Student.getDepartment().equalsIgnoreCase("Electronics Engineering"))
+								.filter(Student-> Student.getCity().equalsIgnoreCase("Karnataka"))
+								.collect(Collectors.groupingBy(Student::getCity, Collectors.counting()))
+			);
+		
+		/*	 
 		*** Advanced Level
 		
 		1.Convert the student list into a Map<Id, Name>.
@@ -421,6 +496,35 @@ public class StudentMain {
 		System.out.println("\n----------------------------Part 9---------------------------------");
 		System.out.println("Advanced Level");
 		System.out.println("-------------------------------------------------------------------");
+		
+		System.out.println("\n1.Convert the student list into a Map<Id, Name>.");
+		data.studentList.stream()
+						.forEach(x-> System.out.println(x.getId()+" - "+x.getName()));
+		
+		
+		
+		System.out.println("\n3.Find students whose name starts with ‘S’.");
+		data.studentList.stream()
+						.filter(Student-> Student.getName().startsWith("S"))
+						.forEach(System.out::println);
+		
+		
+		System.out.println("\n4.Find students whose name length is greater than 5.");
+		data.studentList.stream()
+						.filter(Student-> Student.getName().length()>5)
+						.forEach(System.out::println);
+		
+		
+		System.out.println("\n5.Find students whose rank is even.");
+		data.studentList.stream()
+						.filter(Student-> Student.getRank()%2==0)
+						.forEach(System.out::println);
+		
+		
+		System.out.println("\n6.Find students whose rank is odd.");
+		data.studentList.stream()
+						.filter(Student-> Student.getRank()%2!=0)
+						.forEach(System.out::println);
 		
 		
 		/*
