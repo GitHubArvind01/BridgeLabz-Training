@@ -3,10 +3,14 @@ package com.functionalInterfaces.backgroundjobexecution;
 public class Main {
 
 	public static void main(String[] args) {
-		Task task = new Task();
 		
-		Thread t = new Thread(task);
+		Runnable task = () -> {
+		    System.out.println("Background job running");
+		};
 		
-		t.start();
+		//Thread t = new Thread(task);
+		//t.start();
+		System.out.println(task);
+		System.out.println("Main thread continuee..");
 	}
 }
