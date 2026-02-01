@@ -16,6 +16,7 @@ public class Main {
 					"Hii suriya how are you",
 					"Hii kavi how are you"
 				);
+		
 		Map<String, Integer> wordCount = list.stream()
 											.flatMap(line -> Arrays.stream(line.split(" ")))
 											.map(String::toLowerCase)
