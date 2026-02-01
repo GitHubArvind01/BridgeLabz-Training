@@ -24,12 +24,16 @@ Each day includes:
 
 ---
 
-### Day 35 – Scenario Based Problem
+### Day 35 – Scenario Based Problem, Stream API & Collectors 
 **Date:** 28-Jan-2026  
+- Solved Stream API Problems
+- Solved Collectors Problems
 - Solved Sceanrio based problem in Stream API
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
 - [java8-programmming-practice(scenario)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/scenario-code-base/ScenarioBased/src/com/questions)
+- [java8-programmming-practice(streamAPI)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/gcr-code-base/Java8Features/src/com/streamAPI)
+- [java8-programmming-practice(collectors)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/gcr-code-base/Java8Features/src/com/collectors)
 
 ---
