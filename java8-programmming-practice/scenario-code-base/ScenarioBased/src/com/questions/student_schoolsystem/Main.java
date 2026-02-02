@@ -54,5 +54,10 @@ public class Main {
 		data.studentList.sort((a,b) -> Double.compare(a.getRank(), b.getRank()));
 		data.studentList.stream()
 						.forEach(System.out::println);
+		
+		
+		System.out.println("\n5.Use lambda to display students whose age is above 18.");
+		data.studentList.forEach(x-> System.out.println((x.getAge()>18) ? x.toString() : x.getName()+" Below 18"));
+		
 	}
 }
