@@ -28,7 +28,7 @@ Each day includes:
 **Date:** 28-Jan-2026  
 - Solved Stream API Problems
 - Solved Collectors Problems
-- Solved Sceanrio based problem in Stream API
+- Solved Sceanrio based problem in Stream APIs
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
