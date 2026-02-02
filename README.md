@@ -373,10 +373,10 @@ Each day includes:
 ### Day 31 – Scenario Based Problems & Regex and JUnit 
 **Date:** 21-Jan-2026  
 - Solved Problem based on Java Regex and JUnit
-- 1. Java Regex API:  
+- Java Regex API:  
 - Pattern
 - Matcher
-- 2. Methods:
+- Methods:
 - find()
 - matches()
 - replaceAll()
@@ -449,13 +449,13 @@ Each day includes:
 **Date:** 27-Jan-2026  
 - Create new branch `java8-programmming-practice`
 - Solved Collections Problems based on Lambda Expressions
-- 1. Lambda Expressions
-- 2. Method References
+- Lambda Expressions
+- Method References
 - Solved Collections Problems based on Functional Interfaces
-- 1. Defining and Implementing Interfaces (Best Practices)
-- 2. Functional Interfaces
-- 3. Default and Static Methods in Interfaces
-- 4. Marker Interfaces
+- Defining and Implementing Interfaces (Best Practices)
+- Functional Interfaces
+- Default and Static Methods in Interfaces
+- Marker Interfaces
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
