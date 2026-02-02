@@ -452,4 +452,42 @@ Each day includes:
 - [java8-programmming-practice(scenario)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/scenario-code-base/ScenarioBased/src/com/questions)
 - [java8-programmming-practice(streamAPI)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/gcr-code-base/Java8Features/src/com/streamAPI)
 - [java8-programmming-practice(collectors)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/gcr-code-base/Java8Features/src/com/collectors)
+
+---
+
+### Day 36 – Scenario Based Problem
+**Date:** 29-Jan-2026  
+- Solved Sceanrio based problem in Stream API
+- Improved design and problem-solving skills  
+
+🔗 Code Link:  
+- [java8-programmming-practice(scenario)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/scenario-code-base/ScenarioBased/src/com/questions)
+
+---
+
+### Day 37 – Scenario Based Problem
+**Date:** 30-Jan-2026  
+- Solved Sceanrio based problem in Stream API
+- Improved design and problem-solving skills  
+
+🔗 Code Link:  
+- [java8-programmming-practice(scenario)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/scenario-code-base/ScenarioBased/src/com/questions)
+
+---
+
+
+### Day 38 – Design Pattern and Design Principles
+**Date:** 31-Jan-2026  
+- Explored design principles (SOLID, DRY, KISS, YAGNI)
+- Understand the design patterns
+- Singleton Pattern
+- Factory Pattern
+- Observer Pattern
+- Builder Pattern
+- UML Designing
+- Improved design and problem-solving skills  
+
+🔗 Code Link:  
+- [java-design-pattern-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-design-pattern-practice/)
+
 ---
