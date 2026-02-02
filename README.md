@@ -373,6 +373,13 @@ Each day includes:
 ### Day 31 – Scenario Based Problems & Regex and JUnit 
 **Date:** 21-Jan-2026  
 - Solved Problem based on Java Regex and JUnit
+- 1. Java Regex API:  
+- Pattern
+- Matcher
+- 2. Methods:
+- find()
+- matches()
+- replaceAll()
 - Solved 2 scenario-based problems in `dsa-practice`
 - Improved design and problem-solving skills  
 
@@ -402,9 +409,14 @@ Each day includes:
 ---
 ### Day 33 – Scenario Based Problems and CSV Handling
 **Date:** 23-Jan-2026  
+- Created new branch `java-iostreams-practice`  
 - Solved Scenario based problem in `java-collections-practice`
 - Solved Problem on `CSV Hanldings`
-- Created new branch `java-iostreams-practice`  
+- Introduction to CSV
+- Reading CSV Files
+- Writing CSV Files
+- Parsing CSV Data
+- Data Validation
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
@@ -416,6 +428,11 @@ Each day includes:
 ### Day 34 – JSON Data
 **Date:** 24-Jan-2026  
 - Solved Collections Problems based `JSON`
+- Introduction to JSON
+- Reading JSON Data
+- Writing JSON Data
+- Parsing JSON Data
+- JSON Schema Validation
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
@@ -432,7 +449,13 @@ Each day includes:
 **Date:** 27-Jan-2026  
 - Create new branch `java8-programmming-practice`
 - Solved Collections Problems based on Lambda Expressions
+- 1. Lambda Expressions
+- 2. Method References
 - Solved Collections Problems based on Functional Interfaces
+- 1. Defining and Implementing Interfaces (Best Practices)
+- 2. Functional Interfaces
+- 3. Default and Static Methods in Interfaces
+- 4. Marker Interfaces
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
@@ -444,6 +467,12 @@ Each day includes:
 ### Day 35 – Scenario Based Problem, Stream API & Collectors 
 **Date:** 28-Jan-2026  
 - Solved Stream API Problems
+- Intermediate operations: filter, map, flatMap, distinct, sorted, peek, limit, skip. 
+- Terminal operations: collect, forEach, reduce, count, anyMatch, allMatch, noneMatch. 
+- Stateless vs stateful operations: filter is stateless; sorted and distinct are stateful.
+- Ordered vs unordered streams
+- Parallel streams
+- forEach() — Iterable vs Stream
 - Solved Collectors Problems
 - Solved Sceanrio based problem in Stream API
 - Improved design and problem-solving skills  
@@ -488,6 +517,6 @@ Each day includes:
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
-- [java-design-pattern-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-design-pattern-practice/)
+- [java-design-pattern-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-code-base/JavaDesign/src/com/librarymanagementsystem)
 
 ---
