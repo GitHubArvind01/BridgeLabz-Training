@@ -23,6 +23,6 @@ Each day includes:
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
-- [java-design-pattern-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-design-pattern-practice/)
+- [java-design-pattern-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-code-base/JavaDesign/src/com/librarymanagementsystem)
 
 ---
