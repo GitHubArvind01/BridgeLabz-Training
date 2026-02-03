@@ -29,7 +29,7 @@ Each day includes:
 - Solved Stream API Problems
 - Solved Collectors Problems
 - Solved Sceanrio based problem in Stream APIs
-- Improved design and problem-solving skills  
+- Improved design and problem-solving skill
 
 🔗 Code Link:  
 - [java8-programmming-practice(scenario)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/scenario-code-base/ScenarioBased/src/com/questions)
