@@ -11,7 +11,7 @@ Each day includes:
 
 ---
 
-## 🗓️ Week 1 – Core Java Practice  
+## 🗓️ Week 01 - Core Java Programming
 **Focus:** Git, GitHub, Java Fundamentals, Problem Solving
 
 ---
@@ -111,7 +111,7 @@ Each day includes:
 
 ---
 
-## 🗓️ Week 2 – Java OOP Practice  
+## 🗓️ Week 02 - Object-Oriented Programming
 **Focus:** Object-Oriented Programming & Scenario-Based Design
 
 ---
@@ -186,7 +186,7 @@ Each day includes:
 
 ---
 
-## 🗓️ Week 3 – Data Structures & Algorithms (DSA)  
+## 🗓️ Week 03 - Data Structures & Algorithms
 **Focus:** DSA Implementation & Scenario Problems
 
 ---
@@ -305,7 +305,7 @@ Each day includes:
 
 ---
 
-## 🗓️ Week 4 – Java Collections and Streams
+## 🗓️ Week 04 Java Collections, Streams
 **Focus:** Collection, Genrics, Steram, Exceptions, Regex & JUnit, and Annotation & Reflections
 
 ---
@@ -403,7 +403,7 @@ Each day includes:
 
 ---
 
-## 🗓️ Week 5 – Java IO Progamming
+## 🗓️ Week 05 - IO Programming
 **Focus:** CSV File Handling and JSON
 
 ---
@@ -440,7 +440,7 @@ Each day includes:
 
 ---
 
-## 🗓️ Week 6 – Java 8 Features
+## 🗓️ Week 06 - Java 8 & its Features
 **Focus:** Lambda Expression and Function Interfaces
 
 ---
@@ -504,6 +504,10 @@ Each day includes:
 
 ---
 
+## 🗓️ Week 07 - Solution Designing and Multithreading
+**Focus:** Design Principles, Design Patterns, and Multithreading
+
+---
 
 ### Day 38 – Design Pattern and Design Principles
 **Date:** 31-Jan-2026  
