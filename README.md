@@ -26,3 +26,18 @@ Each day includes:
 - [java-design-pattern-practice](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-code-base/JavaDesign/src/com/librarymanagementsystem)
 
 ---
+
+### Day 38 – Java Multithreading
+**Date:** 02-Jan-2026  
+- Creating Threads Using Thread Class
+- Creating Threads Using Runnable Interface
+- Thread Class vs Runnable Interface
+- Thread Life Cycle and States
+- Thread Methods and Operations
+- Solved problems based on multithreading
+- Improved design and problem-solving skill
+
+🔗 Code Link:  
+- [java-design-pattern-practice(multithreading)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-code-base/JavaDesign/src/com/multithreading)
+
+---
