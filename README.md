@@ -57,18 +57,3 @@ Each day includes:
 - [java8-programmming-practice(scenario)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/scenario-code-base/ScenarioBased/src/com/questions)
 
 ---
-
-### Day 38 – Java Multithreading
-**Date:** 02-Jan-2026  
-- Creating Threads Using Thread Class
-- Creating Threads Using Runnable Interface
-- Thread Class vs Runnable Interface
-- Thread Life Cycle and States
-- Thread Methods and Operations
-- Solved problems based on multithreading
-- Improved design and problem-solving skill
-
-🔗 Code Link:  
-- [java8-programmming-practice(multithreading)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/gcr-code-base/Java8Features/src/com/multithreading)
-
----
