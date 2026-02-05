@@ -38,10 +38,13 @@ public class Main {
 		System.out.println("\n2.Word Frequency Count");
 		String input2 =  "Java is java and java is fast";
 
-		Map<String,Long> wordFreq = Arrays.stream(input2.split("\\s+")).map(String::toLowerCase)
-				        	    	  	 				.collect(Collectors.groupingBy(s->s,Collectors.counting()));
+//		Map<String,Long> wordFreq = Arrays.stream(input2.split("\\s+")).map(String::toLowerCase)
+//				        	    	  	 				.collect(Collectors.groupingBy(s->s,Collectors.counting()));
 		
-		System.out.println(wordFreq);
+		Arrays.stream(input2.split("\\s+")).map(String::toLowerCase)
+	 				.collect(Collectors.groupingBy(s->s,Collectors.counting())).forEach((k,v)->System.out.println(k+" "+v));
+		
+	//	System.out.println(wordFreq);
 		
 		
 		/*
