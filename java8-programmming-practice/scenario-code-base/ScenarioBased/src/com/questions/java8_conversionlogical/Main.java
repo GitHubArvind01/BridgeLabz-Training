@@ -203,5 +203,11 @@ public class Main {
 		
 		List<String> l1 = map.keySet().stream().toList();
 		System.out.println(l1);
+		
+		
+		System.out.println("\n2.Convert Map values to List");
+//		System.out.println(
+//					map.entrySet().stream().collect(Collectors)
+//				);
 	}
 }
