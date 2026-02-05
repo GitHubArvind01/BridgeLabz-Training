@@ -1,6 +1,7 @@
 package com.questions.java8_conversionlogical;
 
 import java.util.Arrays;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
@@ -165,5 +166,42 @@ public class Main {
 				);
 		
 		
+		
+		/*
+		  	***Map → List Conversions
+
+			1.Convert Map keys to List
+			
+			2.Convert Map values to List
+			
+			3.Convert Map entries to List
+			
+			4.Convert Map to List of key-value strings
+			
+			5.Convert Map to List of custom objects
+			
+			6.Convert Map to sorted List by key
+			
+			7.Convert Map to sorted List by value
+			
+			8.Convert Map to List and filter by value > N
+			
+			9.Convert Map to List of keys where value is even
+			
+			10.Convert Map entries to List of DTO objects
+		 */
+		
+		System.out.println("\n-------------------------------------------------------------------------");
+		System.out.println("Map → List Conversions");
+		System.out.println("---------------------------------------------------------------------------");
+		
+		System.out.println("\n1.Convert Map keys to List");
+		Map<String,Integer> map = new HashMap<>();
+		map.put("arvind", 1);
+		map.put("rahul", 2);
+		map.put("allu", 3);
+		
+		List<String> l1 = map.keySet().stream().toList();
+		System.out.println(l1);
 	}
 }
