@@ -1,6 +1,7 @@
 package com.questions.stream_with_string;
 
 import java.util.Arrays;
+import java.util.HashSet;
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.function.Function;
@@ -19,14 +20,11 @@ public class Main {
 		
 		System.out.println("1.Character Frequency Count");
 		String input1 = "banana";
+		
 		Map<Character, Long> charfreq = input1.chars()
-												.mapToObj(c-> (char) c)
-												.filter(c-> (c!=' '))
-												.collect(Collectors.groupingBy(
-															Function.identity(),
-															LinkedHashMap::new,
-															Collectors.counting()
-														));
+											.mapToObj(s->(char)s)
+											.collect(Collectors.groupingBy(s->s,Collectors.counting()));
+	
 		
 		System.out.println(charfreq);
 		
@@ -39,14 +37,28 @@ public class Main {
 		 */
 		
 		System.out.println("\n2.Word Frequency Count");
-		String input2 =  "java is java and java is fast";
-		Map<String,Long> wordFreq = Arrays.stream(input2.split("\\s+"))
-											.collect(Collectors.groupingBy(
-														Function.identity(),
-														LinkedHashMap::new,
-														Collectors.counting()
-													));
+		String input2 =  "Java is java and java is fast";
+
+		Map<String,Long> wordFreq = Arrays.stream(input2.split("\\s+")).map(String::toLowerCase)
+				        	    	  	 				.collect(Collectors.groupingBy(s->s,Collectors.counting()));
 		
 		System.out.println(wordFreq);
+		
+		
+		/*
+		 	3.First Non-Repeating Character
+			
+			Input: "stress"
+			Output: t
+		 */
+		
+		System.out.println("\n3.First Non-Repeating Character");
+		String input3 = "stress";
+		HashSet<Character> set = new HashSet<>();
+		System.out.println(
+					input3.chars()
+							.mapToObj(s-> (char)s)
+							.filter(s->!(set.add(s))).distinct().findFirst().get()
+				);
 	}
 }
