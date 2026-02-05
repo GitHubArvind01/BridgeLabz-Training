@@ -58,7 +58,27 @@ public class Main {
 		System.out.println(
 					input3.chars()
 							.mapToObj(s-> (char)s)
-							.filter(s->!(set.add(s))).distinct().findFirst().get()
+							.filter(s->input3.indexOf(s)==input3.lastIndexOf(s))
+							.findAny()
+							.orElse(null)
 				);
+		
+		
+		/*
+			4.All Non-Repeating Characters
+			
+			Input: "programming"
+			Output: p o r a i n (only chars with count = 1)
+		 */
+		
+		System.out.println("\n4.All Non-Repeating Characters");
+		String input4 = "programming";
+		input4.chars()
+				.mapToObj(s-> (char)s)
+				.collect(Collectors.groupingBy(Function.identity(),LinkedHashMap::new,Collectors.counting()))
+				.entrySet()
+				.stream()
+				.filter(x-> x.getValue()==1)
+				.forEach(x-> System.out.printf(x.getKey()+" "));
 	}
 }
