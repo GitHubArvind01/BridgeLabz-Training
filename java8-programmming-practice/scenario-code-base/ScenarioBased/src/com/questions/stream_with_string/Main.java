@@ -1,7 +1,6 @@
 package com.questions.stream_with_string;
 
 import java.util.Arrays;
-import java.util.HashSet;
 import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.function.Function;
@@ -54,7 +53,6 @@ public class Main {
 		
 		System.out.println("\n3.First Non-Repeating Character");
 		String input3 = "stress";
-		HashSet<Character> set = new HashSet<>();
 		System.out.println(
 					input3.chars()
 							.mapToObj(s-> (char)s)
