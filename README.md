@@ -548,7 +548,7 @@ Each day includes:
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
-- [java-design-pattern-practice(scenario)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/scenario-based-codebase/scenario/src/com/questions)
+- [java-design-pattern-practice(scenario)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/scenario-code-base/ScenarioBased/src/com/questions)
 
 ---
 
