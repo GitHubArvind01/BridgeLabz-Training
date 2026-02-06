@@ -311,6 +311,7 @@ Each day includes:
 ---
 ### Day 26 – Scenario-Based Problems and Java Generics
 **Date:** 15-Jan-2026  
+- Create new branch `java-collections-practice`
 - Solved problem in java-collections `generic` problem
 - Solved 5 scenario-based problems in `dsa-practice`
 - Improved design & problem-solving skills  
