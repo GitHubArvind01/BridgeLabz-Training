@@ -511,6 +511,7 @@ Each day includes:
 
 ### Day 38 – Design Pattern and Design Principles
 **Date:** 31-Jan-2026  
+- - Create new branch `java-design-pattern-practice`
 - Explored design principles (SOLID, DRY, KISS, YAGNI)
 - Understand the design patterns
 - Singleton Pattern
@@ -557,5 +558,30 @@ Each day includes:
 
 🔗 Code Link:  
 - [java8-programmming-practice(scenario)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/scenario-code-base/ScenarioBased/src/com/questions)
+
+---
+
+### Day 42 – Scenario Based Problem
+**Date:** 05-Jan-2026  
+- Solved Sceanrio based problem in Stream API
+- Improved design and problem-solving skills  
+
+🔗 Code Link:  
+- [java8-programmming-practice(scenario)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/java8-programmming-practice/java8-programmming-practice/scenario-code-base/ScenarioBased/src/com/questions)
+
+---
+
+## 🗓️ Week 08 - MySQL & JDBC
+**Focus:** MySQL, and JDBC
+
+---
+
+### Day 43 - MySQL
+**Date:** 06-Jan-2026  
+- Create new branch `mysql-jdbc-practice`
+- Improved design and problem-solving skills  
+
+🔗 Code Link:  
+- [mysql-jdbc-practice(mysql)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/gcr-code-base)
 
 ---
