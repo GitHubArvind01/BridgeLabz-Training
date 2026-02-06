@@ -50,7 +50,7 @@ Each day includes:
 
 ### Day 37 – Scenario Based Problem
 **Date:** 30-Jan-2026  
-- Solved Sceanrio based problem in Stream API
+- Solved Sceanrio based problem in Stream APIs
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
