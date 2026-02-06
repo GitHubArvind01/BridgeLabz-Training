@@ -22,6 +22,6 @@ Each day includes:
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
-- [mysql-jdbc-practice(mysql)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/gcr-code-base)
+- [mysql-jdbc-practice(mysql)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/gcr-code-base/questions/src/main/java/com/mysql/questions)
 
 ---
