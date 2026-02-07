@@ -19,9 +19,21 @@ Each day includes:
 ### Day 43 - MySQL
 **Date:** 06-Jan-2026  
 - Create new branch `mysql-jdbc-practice`
+- CRUD Operation in mysql
+- Solve problems and data base
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
-- [mysql-jdbc-practice(mysql)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/gcr-code-base/questions/src/main/java/com/mysql/questions)
+- [mysql-jdbc-practice(mysql)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/gcr-code-base/MySqlPractice)
+
+---
+
+### Day 43 - MySQL Scenario Based Problems
+**Date:** 06-Jan-2026  
+- Solved problems based on the scenario on database
+- Improved design and problem-solving skills  
+
+🔗 Code Link:  
+- [mysql-jdbc-practice(mysql)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/scenario-code-base/MySqlPractice)
 
 ---
