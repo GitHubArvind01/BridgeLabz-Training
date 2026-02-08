@@ -309,6 +309,7 @@ Each day includes:
 **Focus:** Collection, Genrics, Steram, Exceptions, Regex & JUnit, and Annotation & Reflections
 
 ---
+
 ### Day 26 – Scenario-Based Problems and Java Generics
 **Date:** 15-Jan-2026  
 - Create new branch `java-collections-practice`
@@ -408,6 +409,7 @@ Each day includes:
 **Focus:** CSV File Handling and JSON
 
 ---
+
 ### Day 33 – Scenario Based Problems and CSV Handling
 **Date:** 23-Jan-2026  
 - Created new branch `java-iostreams-practice`  
@@ -528,7 +530,7 @@ Each day includes:
 ---
 
 ### Day 39 – Java Multithreading
-**Date:** 02-Jan-2026  
+**Date:** 02-Feb-2026  
 - Creating Threads Using Thread Class
 - Creating Threads Using Runnable Interface
 - Thread Class vs Runnable Interface
@@ -543,7 +545,7 @@ Each day includes:
 ---
 
 ### Day 40 – Scenario Based Problem
-**Date:** 03-Jan-2026  
+**Date:** 03-Feb-2026  
 - Solved Sceanrio based problem in Multithreading
 - Improved design and problem-solving skills  
 
@@ -553,7 +555,7 @@ Each day includes:
 ---
 
 ### Day 41 – Scenario Based Problem
-**Date:** 04-Jan-2026  
+**Date:** 04-Feb-2026  
 - Solved Sceanrio based problem in Stream API
 - Improved design and problem-solving skills  
 
@@ -563,7 +565,7 @@ Each day includes:
 ---
 
 ### Day 42 – Scenario Based Problem
-**Date:** 05-Jan-2026  
+**Date:** 05-Feb-2026  
 - Solved Sceanrio based problem in Stream API
 - Improved design and problem-solving skills  
 
@@ -578,7 +580,7 @@ Each day includes:
 ---
 
 ### Day 43 - MySQL
-**Date:** 06-Jan-2026  
+**Date:** 06-Feb-2026  
 - Create new branch `mysql-jdbc-practice`
 - Improved design and problem-solving skills  
 
