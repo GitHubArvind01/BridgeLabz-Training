@@ -11,6 +11,11 @@ Each day includes:
 
 ---
 
+## 🗓️ Week 06 - Java 8 & its Features
+**Focus:** Lambda Expression and Function Interfaces
+
+---
+
 ### Day 34 – Java 8 & It's Features
 **Date:** 27-Jan-2026  
 - Create new branch `java8-programmming-practice`
