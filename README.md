@@ -8,8 +8,6 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 
 ---
 
----
-
 ### Day 1 – Git & GitHub Setup
 **Date:** 15-Dec-2025
 - Installed and configured Git
