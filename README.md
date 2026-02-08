@@ -3,6 +3,11 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 
 ---
 
+## 🗓️ Week 02 - Object-Oriented Programming
+**Focus:** Object-Oriented Programming & Scenario-Based Design
+
+---
+
 ### Day 10 – Object-oriented Programming Fundamental
 **Date:** 26-Dec-2025
 - Create new branch java-oops-practice
