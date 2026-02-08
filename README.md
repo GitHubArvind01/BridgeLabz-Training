@@ -17,7 +17,7 @@ Each day includes:
 ---
 
 ### Day 43 - MySQL
-**Date:** 06-Jan-2026  
+**Date:** 06-Feb-2026  
 - Create new branch `mysql-jdbc-practice`
 - CRUD Operation in mysql
 - Solve problems and data base
@@ -29,7 +29,7 @@ Each day includes:
 ---
 
 ### Day 43 - MySQL Scenario Based Problems
-**Date:** 06-Jan-2026  
+**Date:** 06-Feb-2026  
 - Solved problems based on the scenario on database
 - Improved design and problem-solving skills  
 
