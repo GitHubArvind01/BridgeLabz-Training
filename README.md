@@ -11,6 +11,11 @@ Each day includes:
 
 ---
 
+## 🗓️ Week 04 Java Collections, Streams
+**Focus:** Collection, Genrics, Steram, Exceptions, Regex & JUnit, and Annotation & Reflections
+
+---
+
 ### Day 26 – Java Generic
 **Date:** 15-Jan-2025  
 - Create New branch 'java-collections-practice'
