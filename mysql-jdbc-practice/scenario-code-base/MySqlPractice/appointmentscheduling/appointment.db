@@ -1,0 +1,41 @@
+/*
+3. Appointment Scheduling
+*/
+
+
+/*
+UC-3.1: Book New Appointment
+Actor: Receptionist
+Flow: Select patient and doctor, check availability using SELECT with date/time constraints. Insert into appointments table with status='SCHEDULED'. Use PreparedStatement to prevent SQL injection.
+*/
+
+
+/*
+UC-3.2: Check Doctor Availability
+Actor: Receptionist
+Flow: Query appointments table with WHERE clause for doctor_id and date. Use GROUP BY and COUNT to show slot-wise bookings against max capacity.
+*/
+
+
+/*
+UC-3.3: Cancel Appointment
+Actor: Receptionist/Patient
+Flow: Update appointment status to 'CANCELLED' using UPDATE statement. Execute within transaction to log cancellation in appointment_audit table.
+*/
+
+
+/*
+UC-3.4: Reschedule Appointment
+Actor: Receptionist
+Flow: Verify new slot availability, update appointment date/time and doctor_id if needed. Use transaction with ROLLBACK capability if conflicts detected.
+*/
+
+
+
+/*
+UC-3.5: View Daily Appointment Schedule
+Actor: Doctor/Receptionist
+Flow: Execute multi-table JOIN (appointments, patients, doctors) filtered by date. Order by appointment_time using ORDER BY clause.
+*/
+
+
