@@ -3,6 +3,11 @@ This repository tracks my daily learning journey during the BridgeLabz Java Full
 
 ---
 
+## 🗓️ Week 03 - Data Structures & Algorithms
+**Focus:** DSA Implementation & Scenario Problems
+
+---
+
 ###  Day 16 – Data Strcuture - Linkedlist
 **Date:** 02-Jan-2026  
 - created new branch name "dsa-practice"
