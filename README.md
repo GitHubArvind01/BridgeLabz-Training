@@ -11,6 +11,11 @@ Each day includes:
 
 ---
 
+## 🗓️ Week 07 - Solution Designing and Multithreading
+**Focus:** Design Principles, Design Patterns, and Multithreading
+
+---
+
 ### Day 38 – Design Pattern and Design Principles
 **Date:** 31-Jan-2026  
 - Explored design principles (SOLID, DRY, KISS, YAGNI)
@@ -28,7 +33,7 @@ Each day includes:
 ---
 
 ### Day 38 – Java Multithreading
-**Date:** 02-Jan-2026  
+**Date:** 02-Feb-2026  
 - Creating Threads Using Thread Class
 - Creating Threads Using Runnable Interface
 - Thread Class vs Runnable Interface
