@@ -467,7 +467,7 @@ Each day includes:
 
 ---
 
-### Day 35 – Scenario Based Problem, Stream API & Collectors 
+### Day 36 – Scenario Based Problem, Stream API & Collectors 
 **Date:** 28-Jan-2026  
 - Solved Stream API Problems
 - Intermediate operations: filter, map, flatMap, distinct, sorted, peek, limit, skip. 
@@ -487,9 +487,10 @@ Each day includes:
 
 ---
 
-### Day 36 – Scenario Based Problem
+### Day 37 – Scenario Based Problem
 **Date:** 29-Jan-2026  
 - Solved Sceanrio based problem in Stream API
+- Stduent Management System using Streams API to process data
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
@@ -497,9 +498,14 @@ Each day includes:
 
 ---
 
-### Day 37 – Scenario Based Problem
+### Day 38 – Scenario Based Problem
 **Date:** 30-Jan-2026  
 - Solved Sceanrio based problem in Stream API
+- Java 8 Conversion Logical Questions
+- List to Map
+- Map to List
+- List to Set
+- Set to List
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
@@ -512,7 +518,7 @@ Each day includes:
 
 ---
 
-### Day 38 – Design Pattern and Design Principles
+### Day 39 – Design Pattern and Design Principles
 **Date:** 31-Jan-2026  
 - - Create new branch `java-design-pattern-practice`
 - Explored design principles (SOLID, DRY, KISS, YAGNI)
@@ -529,7 +535,7 @@ Each day includes:
 
 ---
 
-### Day 39 – Java Multithreading
+### Day 40 – Java Multithreading
 **Date:** 02-Feb-2026  
 - Creating Threads Using Thread Class
 - Creating Threads Using Runnable Interface
@@ -544,9 +550,13 @@ Each day includes:
 
 ---
 
-### Day 40 – Scenario Based Problem
+### Day 41 – Scenario Based Problem
 **Date:** 03-Feb-2026  
 - Solved Sceanrio based problem in Multithreading
+- Banking System
+- Download Manager
+- Restaurant Processing System
+- And Others Problems set
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
@@ -554,9 +564,10 @@ Each day includes:
 
 ---
 
-### Day 41 – Scenario Based Problem
+### Day 42 – Scenario Based Problem
 **Date:** 04-Feb-2026  
 - Solved Sceanrio based problem in Stream API
+- Java 8 Logical Questions performing Stream API on strings
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
@@ -564,9 +575,13 @@ Each day includes:
 
 ---
 
-### Day 42 – Scenario Based Problem
+### Day 43 – Scenario Based Problem
 **Date:** 05-Feb-2026  
 - Solved Sceanrio based problem in Stream API
+-  Predicate (Condition Checking)
+- Function (Data Transformation)
+- Consumer (Perform Action)
+- Supplier (Provide Data)
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
@@ -579,12 +594,41 @@ Each day includes:
 
 ---
 
-### Day 43 - MySQL
+### Day 44 - MySQL
 **Date:** 06-Feb-2026  
 - Create new branch `mysql-jdbc-practice`
+- Practice these excerise
+- Exercise 1: Simple CRUD Application
+- Exercise 2: Transaction Management
+- Exercise 3: Build a Library Management System
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
-- [mysql-jdbc-practice(mysql)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/gcr-code-base)
+- [mysql-jdbc-practice(mysql)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/gcr-code-base/MySqlPractice)
+
+---
+
+### Day 45 - Scenario Based Problem (MySql)
+**Date:** 7-Feb-2026  
+- Solved These Problems on mysql terminal
+- Patient Management
+- Doctor Management
+- Appointment Scheduling
+- Improved design and problem-solving skills  
+
+🔗 Code Link:  
+- [mysql-jdbc-practice(mysql)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/scenario-code-base/MySqlPractice)
+
+---
+
+### Day 45 - JDBC
+**Date:** 9-Feb-2026  
+- Establishing Database Connection
+- CRUD Operations
+- PreparedStatement
+- Improved design and problem-solving skills  
+
+🔗 Code Link:  
+- [mysql-jdbc-practice(mysql)](https://github.com/GitHubArvind01/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/gcr-code-base/jdbc/src/main/java/com/practices/jdbc)
 
 ---
