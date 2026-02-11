@@ -186,4 +186,19 @@ Actor: Doctor/Receptionist
 Flow: Execute multi-table JOIN (appointments, patients, doctors) filtered by date. Order by appointment_time using ORDER BY clause.
 */
 
-
+SELECT
+    a.appointmentId,
+    d.doctorName,
+    p.patientName,
+    a.appointment_date,
+    -> a.status
+    -> FROM appointments a
+    -> JOIN doctors d ON a.doctorId = d.doctorId
+    -> JOIN patients p ON a.patientId = p.patientId
+    -> WHERE a.appointment_date = '2030-04-10'
+    -> ORDER BY d.doctorName;
++---------------+------------+-------------+------------------+-----------+
+| appointmentId | doctorName | patientName | appointment_date | status    |
++---------------+------------+-------------+------------------+-----------+
+|             1 | suriya     | ravi        | 2030-04-10       | Scheduled |
++---------------+------------+-------------+------------------+-----------+
