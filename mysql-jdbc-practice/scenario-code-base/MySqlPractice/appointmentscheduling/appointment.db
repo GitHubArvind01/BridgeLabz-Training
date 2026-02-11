@@ -140,6 +140,17 @@ Actor: Receptionist/Patient
 Flow: Update appointment status to 'CANCELLED' using UPDATE statement. Execute within transaction to log cancellation in appointment_audit table.
 */
 
+UPDATE appointments
+    SET status = 'Cancelled'
+    WHERE patientId = 2;
+
+SELECT * FROM appointments;
++---------------+----------+-----------+------------------+-----------+
+| appointmentId | doctorId | patientId | appointment_date | status    |
++---------------+----------+-----------+------------------+-----------+
+|             1 |        1 |         2 | 2026-02-12       | Cancelled |
+|             2 |        2 |         3 | 2027-04-11       | Completed |
++---------------+----------+-----------+------------------+-----------+
 
 /*
 UC-3.4: Reschedule Appointment
@@ -147,7 +158,27 @@ Actor: Receptionist
 Flow: Verify new slot availability, update appointment date/time and doctor_id if needed. Use transaction with ROLLBACK capability if conflicts detected.
 */
 
+START TRANSACTION;
 
+UPDATE appointments
+    SET doctorId = 3,
+    status = 'Scheduled',
+    appointment_date = '2030-04-10'
+    WHERE patientId = 2;
+
+-- if everything looks good then do it
+COMMIT;
+
+-- OR if problem then do it
+-- ROLLBACK;
+
+SELECT * FROM appointments;
++---------------+----------+-----------+------------------+-----------+
+| appointmentId | doctorId | patientId | appointment_date | status    |
++---------------+----------+-----------+------------------+-----------+
+|             1 |        3 |         2 | 2030-04-10       | Scheduled |
+|             2 |        2 |         3 | 2027-04-11       | Completed |
++---------------+----------+-----------+------------------+-----------+
 
 /*
 UC-3.5: View Daily Appointment Schedule
