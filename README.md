@@ -30,7 +30,7 @@ Each day includes:
 
 ### Day 43 - MySQL Scenario Based Problems
 **Date:** 06-Feb-2026  
-- Solved problems based on the scenario on database
+- Solved problems based on the scenario on databases
 - Improved design and problem-solving skills  
 
 🔗 Code Link:  
