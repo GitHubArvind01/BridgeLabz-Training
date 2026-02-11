@@ -68,6 +68,20 @@ SELECT * FROM doctors;
 |        3 | suriya     | Physio therapyh    |
 +----------+------------+--------------------+
 
+ALTER TABLE doctors ADD isActive BOOLEAN;
+
+UPDATE doctors
+SET isActive = true;
+
+SELECT * FROM doctors;
++----------+------------+--------------------+----------+
+| doctorId | doctorName | specialization     | isActive |
++----------+------------+--------------------+----------+
+|        1 | allu       | Genereal Physician |        1 |
+|        2 | suriya     | Physio therapyh    |        1 |
+|        3 | suriya     | Physio therapyh    |        1 |
++----------+------------+--------------------+----------+
+
 
 
 -- appointment tables 
