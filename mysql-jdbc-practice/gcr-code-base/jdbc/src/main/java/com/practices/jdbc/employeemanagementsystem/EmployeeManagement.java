@@ -63,4 +63,16 @@ public class EmployeeManagement {
 			System.out.println("Operation not possible! may id not found");
 		}
 	}
+	
+	//Search employee by name
+	public void SearchEmployeeByName(String name) throws SQLException{
+		String sql = "SELECT * FROM employee_data WHERE emp_Name = ?";
+		PreparedStatement statement = connection.getConnection().prepareStatement(sql);
+		statement.setString(1, name);
+		ResultSet result = statement.executeQuery();
+		while(result.next()) {
+			Employee ep = new Employee(result.getInt("emp_Id"),result.getString("emp_Name"),result.getString("emp_Department"),result.getInt("emp_Salary"));
+			System.out.println(ep.toString());
+		}
+	}
 }

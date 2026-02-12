@@ -17,6 +17,9 @@ public class EmployeeMain {
 			
 			management.updateEmployeeSalary(1, 88888888);
 			management.deleteEmployeeById(2);
+			management.addEmployee(new Employee("ravi","Electronics",555555));
+			management.SearchEmployeeByName("ravi");
+			
 			management.viewAllEmployee();
 		}
 		catch(SQLException e) {
